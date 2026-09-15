@@ -1,0 +1,4 @@
+Method,n_cell_types,n_P_lt_0_05,min_P,n_3pair_consistent
+NNLS,11,0,0.25,2
+Marker z-score,11,0,0.5,0
+ssGSEA,11,0,0.25,1

@@ -1,0 +1,7 @@
+Metric,Value
+Original manuscript FDR-significant GO terms,26
+Original terms found in revised GO results,26
+Original terms nominal P < 0.05 in revised analysis,25
+Original terms BH-FDR < 0.05 in revised analysis,0
+All revised GO terms tested,462
+All revised GO terms BH-FDR < 0.05,0

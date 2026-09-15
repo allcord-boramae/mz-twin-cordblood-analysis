@@ -1,0 +1,8 @@
+Domain,Result,Interpretation
+Differential expression,1 miRNA and 0 mRNAs were BH-FDR significant.,Confirmatory
+Dual-test exploratory DE,8 miRNA and 23 mRNA dual-test exploratory candidates.,Hypothesis-generating; manuscript candidate sets
+Moderated-test-only audit,30 miRNA and 114 mRNA candidates before the ordinary paired t-test requirement.,Wider reviewer-response audit sets
+miRNA–mRNA integration,26 database-supported pairs; 3 multi-database; 3 anti-correlated; 0 satisfying both.,Legacy wider-list exploratory output
+FDR-significant miRNA integration,No database-supported pair between the FDR-significant miRNA and the 114 moderated-test-only mRNAs.,Legacy wider-list negative downstream convergence
+GO enrichment,0 of 462 tested GO terms survived BH-FDR < 0.05.,Legacy wider-list output; no confirmatory functional enrichment
+Cell composition,"No cell type showed nominal P < 0.05 across NNLS, marker z-score, or ssGSEA analyses.",Sensitivity analysis; residual confounding cannot be excluded

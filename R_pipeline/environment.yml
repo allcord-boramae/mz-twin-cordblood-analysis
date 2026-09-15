@@ -1,0 +1,14 @@
+name: mcda-revision
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - openpyxl
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - r-base>=4.4
+  - bioconductor-limma

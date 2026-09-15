@@ -1,0 +1,2 @@
+Dataset,miRNA,logFC,FC_abs,diff_MZ1,diff_MZ2,diff_MZ3,t_moderated,P.Value,adj.P.Val,P.ordinary_t,B,consistent_direction,FDR_significant,moderated_only_candidate,exploratory_candidate
+miRNA,hsa-miR-1292-5p,-1.66582,3.1729394715387,-1.62401,-1.58455,-1.7889,-13.9479119625898,4.06017042181525e-07,0.0017954073605267,0.0014085466679057026,3.58401714701047,True,True,True,True

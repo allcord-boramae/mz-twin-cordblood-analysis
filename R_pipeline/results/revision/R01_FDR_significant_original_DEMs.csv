@@ -1,0 +1,2 @@
+miRNA,logFC,P.Value,adj.P.Val,diff_MZ1,diff_MZ2,diff_MZ3,Revised status
+hsa-miR-1292-5p,-1.66582,4.06017042181525e-07,0.0017954073605267,-1.62401,-1.58455,-1.7889,FDR-significant

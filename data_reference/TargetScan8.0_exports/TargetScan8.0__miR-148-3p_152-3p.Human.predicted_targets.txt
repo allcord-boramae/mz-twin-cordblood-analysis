@@ -1,0 +1,803 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+ATP6AP2	ENST00000378438.4	ATPase, H+ transporting, lysosomal accessory protein 2 	6001	2	2	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.2838	1.0995	1.7999	-1.26	-1.26	0.96	2005, 2007, 2009, 2011
+MEOX2	ENST00000262041.5	mesenchyme homeobox 2 	5	2	2	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1812	0.8499	1.7169	-0.97	-0.97	0.96	2003, 2005, 2007, 2009, 2011
+GLRX5	ENST00000331334.4	glutaredoxin 5 	6308	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.0575	0.3584	1.2329	-0.92	-0.92	0.58	2007, 2011
+C5orf30	ENST00000319933.2	chromosome 5 open reading frame 30 	889	2	1	1	0	0	0	0	0	0	hsa-miR-152-3p	0.2311	0.8907	1.6139	-0.80	-0.91	0.69	2007, 2009, 2011
+SNN	ENST00000329565.5	stannin 	663	2	1	1	0	0	0	0	0	3	hsa-miR-148a-3p	0.1837	0.8482	1.8756	-0.79	-0.81	0.97	2003, 2005, 2007, 2009, 2011
+GADD45A	ENST00000370986.4	growth arrest and DNA-damage-inducible, alpha 	689	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1325	0.5430	1.0175	-0.79	-0.79	0.64	2005, 2007, 2009, 2011
+ARL8B	ENST00000419534.2	ADP-ribosylation factor-like 8B 	664	1	0	1	0	2	0	2	0	0	hsa-miR-148a-3p	0.0760	0.4816	1.7612	-0.77	-0.79	0.58	2007, 2011
+NPTN	ENST00000345330.4	neuroplastin 	2918	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1180	0.5838	1.4410	-0.76	-0.77	0.89	2007, 2009, 2011
+NPEPL1	ENST00000356091.6	aminopeptidase-like 1 	134	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1604	0.5861	0.9200	-0.75	-0.75	0.90	2005, 2007, 2009, 2011
+MITF	ENST00000328528.6	microphthalmia-associated transcription factor 	593	2	0	1	1	2	0	0	2	1	hsa-miR-148a-3p	0.1005	0.6089	2.1251	-0.74	-0.91	0.98	2011
+CLCN6	ENST00000312413.6	chloride channel, voltage-sensitive 6 	227	1	0	1	0	2	1	0	1	0	hsa-miR-148a-3p	0.1363	0.7096	1.9347	-0.73	-0.73	0.80	2009, 2011
+CDK5R1	ENST00000313401.3	cyclin-dependent kinase 5, regulatory subunit 1 (p35) 	335	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0666	0.3954	1.3239	-0.73	-0.73	0.93	2005, 2007, 2009, 2011
+HOMER1	ENST00000508576.1	homer homolog 1 (Drosophila) 	394	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1147	0.5808	1.4216	-0.70	-0.71	0.79	2011
+TMEM54	ENST00000373463.3	transmembrane protein 54 	35	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.1826	0.6259	0.9535	-0.70	-0.70	0.83	2009, 2011
+C18orf25	ENST00000282059.6	chromosome 18 open reading frame 25 	688	2	0	2	0	1	0	1	0	1	hsa-miR-148b-3p	0.1038	0.6324	2.2183	-0.70	-0.71	0.92	2005, 2007, 2009, 2011
+SOS2	ENST00000216373.5	son of sevenless homolog 2 (Drosophila) 	70	2	1	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.1515	0.7101	1.7517	-0.70	-0.70	0.89	2009, 2011
+HLA-DQB2	ENST00000435145.2	major histocompatibility complex, class II, DQ beta 2 	5	2	2	0	0	1	0	1	0	1	hsa-miR-148a-3p	0.0565	0.3760	1.6741	-0.68	-0.68	< 0.1	2011
+S1PR1	ENST00000305352.6	sphingosine-1-phosphate receptor 1 	251	2	1	1	0	0	0	0	0	0	hsa-miR-148b-3p	0.1653	0.7188	1.5599	-0.68	-0.68	0.94	2005, 2007, 2009, 2011
+QKI	ENST00000392127.2	QKI, KH domain containing, RNA binding 	323	4	3	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.2827	1.1900	2.5393	-0.67	-1.13	> 0.99	2005, 2007, 2009, 2011
+INO80	ENST00000361937.3	INO80 complex subunit 	279	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1765	0.8242	1.9748	-0.67	-0.67	0.99	2007, 2009, 2011
+RTN4	ENST00000394609.2	reticulon 4 	34030	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0465	0.3063	1.2928	-0.66	-0.66	0.36	NULL
+CCT6A	ENST00000275603.4	chaperonin containing TCP1, subunit 6A (zeta 1) 	1983	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1318	0.5441	1.0521	-0.66	-0.67	0.87	2009, 2011
+B4GALT5	ENST00000371711.4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5 	1000	2	1	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.1790	0.7703	1.9331	-0.66	-0.66	0.95	2005, 2007, 2009, 2011
+TMED7	ENST00000456936.3	transmembrane emp24 protein transport domain containing 7 	1571	2	1	1	0	1	0	0	1	3	hsa-miR-148b-3p	0.1496	0.7404	1.7596	-0.65	-1.05	0.97	2003, 2005, 2007, 2009, 2011
+DCP2	ENST00000389063.2	decapping mRNA 2 	155	4	0	3	1	1	0	1	0	0	hsa-miR-148b-3p	0.1418	0.8238	2.6433	-0.65	-0.75	> 0.99	2007, 2009, 2011
+MXD1	ENST00000264444.2	MAX dimerization protein 1 	183	2	1	1	0	1	0	1	0	2	hsa-miR-148a-3p	0.1774	0.7241	1.7061	-0.65	-0.91	0.94	2009, 2011
+RAB34	ENST00000447716.1	RAB34, member RAS oncogene family 	880	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0374	0.2278	0.7651	-0.65	-0.65	0.38	2005, 2007, 2009, 2011
+ITGA9	ENST00000264741.5	integrin, alpha 9 	9	2	0	1	1	3	0	1	2	1	hsa-miR-148a-3p	0.1284	0.7641	2.6883	-0.64	-0.64	0.98	2007, 2009, 2011
+PRNP	ENST00000379440.4	prion protein 	1136	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.0949	0.5012	1.4257	-0.64	-0.64	0.61	2009, 2011
+SZRD1	ENST00000401089.3	SUZ RNA binding domain containing 1 	137	3	0	3	0	1	0	1	0	0	hsa-miR-148a-3p	0.0693	0.4295	1.5391	-0.64	-0.74	0.84	2007, 2009, 2011
+USP6	ENST00000332776.4	ubiquitin specific peptidase 6 (Tre-2 oncogene) 	5	1	1	0	0	2	0	1	1	0	hsa-miR-148a-3p	0.1579	0.7494	2.0314	-0.63	-0.63	0.85	2005, 2007, 2009, 2011
+DDX6	ENST00000264018.4	DEAD (Asp-Glu-Ala-Asp) box helicase 6 	11	1	0	1	0	1	0	1	0	1	hsa-miR-152-3p	0.1032	0.6081	2.0821	-0.63	-0.75	0.54	2007, 2009, 2011
+MMD	ENST00000262065.3	monocyte to macrophage differentiation-associated 	558	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1277	0.5196	0.8888	-0.63	-0.63	0.78	2005, 2007, 2009, 2011
+MRAS	ENST00000289104.4	muscle RAS oncogene homolog 	181	1	1	0	0	2	0	0	2	0	hsa-miR-148a-3p	0.1840	0.6500	1.0991	-0.62	-0.83	0.84	2009, 2011
+ELF5	ENST00000257832.2	E74-like factor 5 (ets domain transcription factor) 	5	2	1	0	1	0	0	0	0	0	hsa-miR-152-3p	0.1551	0.6990	1.5129	-0.61	-0.61	0.86	2005, 2007, 2009, 2011
+BARHL2	ENST00000370445.4	BarH-like homeobox 2 	13	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1276	0.5270	0.9651	-0.61	-0.61	0.83	NULL
+OTX2	ENST00000339475.5	orthodenticle homeobox 2 	5	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.1001	0.5262	1.5529	-0.61	-0.61	0.86	2005, 2007, 2009, 2011
+ZDHHC7	ENST00000313732.4	zinc finger, DHHC-type containing 7 	4068	2	2	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1328	0.6715	1.5722	-0.60	-0.60	0.59	2005, 2007, 2009, 2011
+PNRC2	ENST00000334351.7	proline-rich nuclear receptor coactivator 2 	100	2	0	2	0	0	0	0	0	1	hsa-miR-148b-3p	0.0630	0.3863	1.3388	-0.60	-0.60	0.58	2011
+CCDC144A	ENST00000443444.2	coiled-coil domain containing 144A 	5	1	1	0	0	2	0	0	2	0	hsa-miR-148a-3p	0.1827	0.8645	2.2219	-0.60	-0.60	0.93	NULL
+PIGA	ENST00000542278.1	phosphatidylinositol glycan anchor biosynthesis, class A 	104	1	0	1	0	1	1	0	0	0	hsa-miR-152-3p	0.1154	0.5857	1.5745	-0.60	-0.61	0.29	2011
+MAFB	ENST00000373313.2	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B 	333	1	1	0	0	2	1	1	0	0	hsa-miR-148a-3p	0.1650	0.7562	1.8218	-0.60	-0.64	0.86	2005, 2007, 2009, 2011
+ST8SIA3	ENST00000324000.3	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3 	5	1	0	1	0	2	0	0	2	4	hsa-miR-152-3p	0.0988	0.6614	3.1435	-0.59	-0.59	0.43	2005, 2007, 2011
+WDR47	ENST00000400794.3	WD repeat domain 47 	185	2	0	2	0	0	0	0	0	0	hsa-miR-152-3p	0.1061	0.5793	1.5933	-0.59	-0.59	0.66	2009, 2011
+TGFA	ENST00000295400.6	transforming growth factor, alpha 	36	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1805	0.6361	1.0612	-0.58	-0.58	0.90	2005, 2007, 2009, 2011
+STX3	ENST00000535361.1	syntaxin 3 	564	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0717	0.4011	1.2243	-0.58	-0.64	0.72	2007, 2009, 2011
+RNF219	ENST00000282003.6	ring finger protein 219 	680	1	1	0	0	0	0	0	0	1	hsa-miR-152-3p	0.1070	0.5017	1.1456	-0.57	-0.57	0.88	2009, 2011
+WDR20	ENST00000335263.5	WD repeat domain 20 	288	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1063	0.4915	1.1063	-0.57	-0.57	0.69	2005, 2007, 2009, 2011
+SNX3	ENST00000230085.8	sorting nexin 3 	1843	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0601	0.3191	0.7652	-0.57	-0.58	< 0.1	NULL
+PTPRA	ENST00000216877.6	protein tyrosine phosphatase, receptor type, A 	7517	1	0	0	1	1	0	1	0	0	hsa-miR-148b-3p	0.0712	0.4346	1.5064	-0.57	-0.58	0.64	NULL
+TNRC6A	ENST00000395799.3	trinucleotide repeat containing 6A 	267	2	1	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.2647	0.9552	1.8637	-0.56	-0.56	0.93	2005, 2007, 2009, 2011
+AGO4	ENST00000373210.3	argonaute RISC catalytic component 4 	96	1	1	0	0	1	0	1	0	3	hsa-miR-152-3p	0.2165	1.0212	2.5813	-0.56	-0.57	0.67	2005, 2007, 2009, 2011
+C15orf27	ENST00000388942.3	chromosome 15 open reading frame 27 	17	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0594	0.3314	0.9484	-0.56	-0.56	0.27	2005, 2007, 2009, 2011
+UBAP2L	ENST00000343815.6	ubiquitin associated protein 2-like 	3367	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0780	0.3865	0.8464	-0.56	-0.56	0.43	2011
+LYSMD2	ENST00000267838.3	LysM, putative peptidoglycan-binding, domain containing 2 	307	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1091	0.4762	0.8826	-0.55	-0.55	0.74	2009, 2011
+EOGT	ENST00000383701.3	EGF domain-specific O-linked N-acetylglucosamine (GlcNAc) transferase 	302	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1518	0.6275	1.3710	-0.55	-0.59	0.86	2009, 2011
+MMP15	ENST00000219271.3	matrix metallopeptidase 15 (membrane-inserted) 	605	1	1	0	0	2	0	1	1	1	hsa-miR-148a-3p	0.1105	0.5466	1.3953	-0.55	-0.60	0.77	2005, 2007, 2009, 2011
+ARRDC3	ENST00000265138.3	arrestin domain containing 3 	1313	2	0	1	1	0	0	0	0	1	hsa-miR-148a-3p	0.1020	0.5856	1.7416	-0.55	-0.55	0.85	2005, 2007, 2009, 2011
+CTSA	ENST00000372484.3	cathepsin A 	3915	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0855	0.4108	0.8643	-0.54	-0.54	0.36	2009, 2011
+USP48	ENST00000400301.1	ubiquitin specific peptidase 48 	3036	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1188	0.5006	0.8967	-0.54	-0.54	0.89	2005, 2007, 2009, 2011
+CDC14A	ENST00000370125.2	cell division cycle 14A 	123	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1655	0.6394	1.3193	-0.54	-0.54	0.69	2009, 2011
+ARFIP1	ENST00000451320.2	ADP-ribosylation factor interacting protein 1 	275	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1063	0.5083	1.2535	-0.53	-0.53	0.87	2007, 2009, 2011
+MTMR9	ENST00000221086.3	myotubularin related protein 9 	400	3	0	3	0	0	0	0	0	0	hsa-miR-148a-3p	0.1245	0.6605	1.9322	-0.53	-0.75	0.97	2009, 2011
+KAT7	ENST00000259021.4	K(lysine) acetyltransferase 7 	48	2	1	0	1	0	0	0	0	2	hsa-miR-148a-3p	0.1075	0.5939	1.8258	-0.53	-0.58	0.88	2005, 2007, 2009, 2011
+ZNF274	ENST00000326804.4	zinc finger protein 274 	113	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1147	0.4995	0.9808	-0.53	-0.53	0.56	2009, 2011
+PPP1R10	ENST00000376511.2	protein phosphatase 1, regulatory subunit 10 	893	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1386	0.6465	1.5345	-0.53	-0.54	0.87	2011
+BAI3	ENST00000370598.1	brain-specific angiogenesis inhibitor 3 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1357	0.5595	1.1126	-0.52	-0.52	0.79	2009, 2011
+ABCB7	ENST00000253577.3	ATP-binding cassette, sub-family B (MDR/TAP), member 7 	77	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1362	0.5442	0.9493	-0.52	-0.55	0.88	2005, 2007, 2009, 2011
+MDM4	ENST00000391947.2	Mdm4 p53 binding protein homolog (mouse) 	443	1	0	1	0	2	0	2	0	2	hsa-miR-148a-3p	0.0527	0.3598	1.7980	-0.52	-0.58	0.56	2011
+SPRYD7	ENST00000361840.3	SPRY domain containing 7 	863	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0722	0.3654	0.8120	-0.52	-0.52	0.81	2009, 2011
+PPP6R1	ENST00000412770.2	protein phosphatase 6, regulatory subunit 1 	292	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1322	0.5410	1.0068	-0.51	-0.51	0.85	2007, 2009, 2011
+C1GALT1	ENST00000223122.3	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1 	44	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.1517	0.6075	1.1889	-0.51	-0.60	0.88	2005, 2007, 2009, 2011
+CCDC6	ENST00000263102.6	coiled-coil domain containing 6 	193	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0995	0.4595	0.9674	-0.51	-0.51	0.89	2009, 2011
+CABP7	ENST00000216144.3	calcium binding protein 7 	12	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1022	0.4675	0.9743	-0.51	-0.51	0.81	2007, 2011
+PHAX	ENST00000297540.4	phosphorylated adaptor for RNA export 	309	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1055	0.4313	0.7510	-0.51	-0.64	0.87	2009, 2011
+SNX27	ENST00000368843.3	sorting nexin family member 27 	46	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0531	0.3336	1.3014	-0.51	-0.51	0.91	2005, 2007, 2009, 2011
+SOS1	ENST00000426016.1	son of sevenless homolog 1 (Drosophila) 	189	1	1	0	0	1	0	0	1	1	hsa-miR-148b-3p	0.1726	0.7083	1.7175	-0.51	-0.51	0.71	2011
+SMIM12	ENST00000521580.2	small integral membrane protein 12 	1091	1	0	1	0	2	1	1	0	0	hsa-miR-148a-3p	0.0287	0.1940	0.8906	-0.50	-0.70	0.43	2011
+C7orf60	ENST00000297145.4	chromosome 7 open reading frame 60 	39	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0733	0.4171	1.3139	-0.50	-0.62	0.61	2005, 2007, 2009, 2011
+NRAS	ENST00000369535.4	neuroblastoma RAS viral (v-ras) oncogene homolog 	551	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0838	0.4104	0.9171	-0.50	-0.50	0.89	2011
+FBXO28	ENST00000424254.2	F-box protein 28 	461	2	0	2	0	0	0	0	0	0	hsa-miR-152-3p	0.0963	0.5483	1.6325	-0.50	-0.56	0.92	2009, 2011
+NR2C2AP	ENST00000331552.7	nuclear receptor 2C2-associated protein 	8	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0723	0.3727	0.8999	-0.49	-0.49	< 0.1	2007
+SESTD1	ENST00000428443.3	SEC14 and spectrin domains 1 	478	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1928	0.6466	0.9965	-0.49	-0.50	0.90	2005, 2007, 2009, 2011
+FEZ2	ENST00000379245.4	fasciculation and elongation protein zeta 2 (zygin II) 	323	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1227	0.4965	0.8744	-0.49	-0.54	0.75	2009, 2011
+NPTX1	ENST00000306773.4	neuronal pentraxin I 	1876	1	1	0	0	2	0	2	0	1	hsa-miR-148a-3p	0.2022	0.8122	2.0471	-0.49	-0.51	0.89	2005, 2007, 2009, 2011
+NCKIPSD	ENST00000416649.2	NCK interacting protein with SH3 domain 	4158	1	1	0	0	2	1	0	1	1	hsa-miR-148b-3p	0.0835	0.4395	1.1805	-0.49	-0.54	0.22	2009, 2011
+DDAH1	ENST00000535924.2	dimethylarginine dimethylaminohydrolase 1 	46	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0908	0.4665	1.2030	-0.49	-0.49	< 0.1	2009, 2011
+CDK19	ENST00000368911.3	cyclin-dependent kinase 19 	51	2	1	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.1818	0.7431	1.6653	-0.49	-0.87	0.98	2003, 2005, 2007, 2009, 2011
+ELAVL4	ENST00000371824.1	ELAV like neuron-specific RNA binding protein 4 	5	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1365	0.7016	1.6575	-0.48	-0.48	0.95	NULL
+KLF6	ENST00000542957.1	Kruppel-like factor 6 	4644	2	0	2	0	0	0	0	0	0	hsa-miR-148a-3p	0.0552	0.3375	1.1619	-0.48	-0.48	0.73	2011
+ERRFI1	ENST00000377482.5	ERBB receptor feedback inhibitor 1 	3807	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1239	0.5031	0.9175	-0.48	-0.53	0.83	2007, 2009, 2011
+VMP1	ENST00000262291.4	vacuole membrane protein 1 	2505	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0598	0.3237	0.8346	-0.48	-0.48	0.66	NULL
+FXR1	ENST00000357559.4	fragile X mental retardation, autosomal homolog 1 	434	1	1	0	0	1	1	0	0	0	hsa-miR-148a-3p	0.1569	0.5883	0.9630	-0.48	-0.67	0.90	2009, 2011
+SMS	ENST00000404933.2	spermine synthase 	14	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0710	0.3640	0.8485	-0.48	-0.48	0.90	2005, 2007, 2009, 2011
+BICC1	ENST00000373886.3	bicaudal C homolog 1 (Drosophila) 	165	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1810	0.6774	1.3714	-0.48	-0.48	0.86	NULL
+EIF4E3	ENST00000425534.3	eukaryotic translation initiation factor 4E family member 3 	475	1	1	0	0	0	0	0	0	0	hsa-miR-148b-3p	0.1231	0.5228	1.0204	-0.48	-0.48	0.88	2009, 2011
+MARCH3	ENST00000308660.5	membrane-associated ring finger (C3HC4) 3, E3 ubiquitin protein ligase 	77	2	1	1	0	0	0	0	0	0	hsa-miR-152-3p	0.1016	0.5498	1.5207	-0.48	-0.48	0.84	2007, 2009, 2011
+MTF1	ENST00000373036.4	metal-regulatory transcription factor 1 	98	3	1	2	0	0	0	0	0	0	hsa-miR-148a-3p	0.1648	0.7997	2.0535	-0.48	-0.48	> 0.99	2005, 2007, 2009, 2011
+KLF5	ENST00000377687.4	Kruppel-like factor 5 (intestinal) 	161	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1308	0.5325	0.9512	-0.47	-0.47	0.72	2009, 2011
+PNPLA6	ENST00000221249.6	patatin-like phospholipase domain containing 6 	429	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0941	0.4484	1.0141	-0.47	-0.47	0.86	2007, 2009, 2011
+C3orf58	ENST00000441925.2	chromosome 3 open reading frame 58 	118	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0473	0.2807	0.9145	-0.47	-0.47	< 0.1	2011
+UCP3	ENST00000314032.4	uncoupling protein 3 (mitochondrial, proton carrier) 	10	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0683	0.3586	0.8936	-0.47	-0.47	0.76	2005, 2007, 2009, 2011
+INHBB	ENST00000295228.3	inhibin, beta B 	75	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1287	0.5218	0.8897	-0.47	-0.47	0.87	2005, 2007, 2009, 2011
+MTMR14	ENST00000353332.5	myotubularin related protein 14 	173	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0794	0.3896	0.8275	-0.47	-0.47	0.79	2009, 2011
+KCNJ6	ENST00000609713.1	potassium inwardly-rectifying channel, subfamily J, member 6 	5	1	0	1	0	5	0	4	1	2	hsa-miR-148a-3p	0.1280	0.8464	3.7955	-0.47	-0.47	0.94	NULL
+LRP2	ENST00000263816.3	low density lipoprotein receptor-related protein 2 	56	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1423	0.6437	1.7037	-0.47	-0.47	0.84	2009, 2011
+SNAP91	ENST00000521485.1	synaptosomal-associated protein, 91kDa 	68	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1296	0.5837	1.3858	-0.46	-0.46	0.76	2009, 2011
+CAND1	ENST00000545606.1	cullin-associated and neddylation-dissociated 1 	1568	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.1721	0.6575	1.2961	-0.46	-0.63	0.92	2007, 2009, 2011
+HOXC8	ENST00000040584.4	homeobox C8 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1615	0.5874	0.9132	-0.46	-0.46	0.89	2005, 2007, 2009, 2011
+NRP1	ENST00000374875.1	neuropilin 1 	586	1	1	0	0	1	0	1	0	2	hsa-miR-148a-3p	0.1111	0.5011	1.0905	-0.46	-0.64	0.87	2005, 2007, 2009, 2011
+TMEM170A	ENST00000357613.4	transmembrane protein 170A 	70	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0561	0.3149	0.9069	-0.46	-0.46	< 0.1	NULL
+USP33	ENST00000370794.3	ubiquitin specific peptidase 33 	287	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0485	0.3087	1.1716	-0.46	-0.46	0.76	2005, 2007, 2009, 2011
+C7orf71	ENST00000409974.3	chromosome 7 open reading frame 71 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0430	0.2491	0.7102	-0.46	-0.46	< 0.1	2011
+ADAMTS5	ENST00000284987.5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 	68	2	0	1	1	1	0	0	1	1	hsa-miR-148a-3p	0.1016	0.6147	2.1778	-0.46	-0.48	0.96	2007, 2009, 2011
+PLAA	ENST00000397292.3	phospholipase A2-activating protein 	416	1	0	1	0	2	0	1	1	1	hsa-miR-148a-3p	0.0574	0.3514	1.2465	-0.45	-0.56	0.93	2005, 2007, 2009, 2011
+SRSF11	ENST00000370950.3	serine/arginine-rich splicing factor 11 	1201	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.1077	0.4894	1.0443	-0.45	-0.51	0.81	2005, 2007, 2009, 2011
+ZNF618	ENST00000288466.7	zinc finger protein 618 	778	2	0	1	1	0	0	0	0	1	hsa-miR-148a-3p	0.0867	0.5341	2.0658	-0.45	-0.46	0.97	2007, 2009, 2011
+MAP3K9	ENST00000554752.2	mitogen-activated protein kinase kinase kinase 9 	44	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.1948	0.7227	1.5928	-0.45	-0.47	0.90	2005, 2007, 2009, 2011
+BTBD3	ENST00000254977.3	BTB (POZ) domain containing 3 	3798	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1287	0.5040	0.8444	-0.45	-0.49	0.89	2005, 2007, 2009, 2011
+RGMA	ENST00000557420.1	RGM domain family, member A 	145	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1653	0.5933	0.9743	-0.45	-0.47	0.80	2005, 2007, 2009, 2011
+TMSB4X	ENST00000451311.2	thymosin beta 4, X-linked 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0234	0.1502	0.5664	-0.45	-0.45	0.51	2007, 2009, 2011
+FAM73B	ENST00000277475.5	family with sequence similarity 73, member B 	651	1	0	1	0	2	1	1	0	0	hsa-miR-148b-3p	0.0495	0.3308	1.4817	-0.45	-0.45	0.16	2009, 2011
+TMEM52B	ENST00000298530.3	transmembrane protein 52B 	11	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0653	0.3724	1.1736	-0.45	-0.45	< 0.1	2009, 2011
+AC135178.1	ENST00000535173.1	HCG1985372; Uncharacterized protein; cDNA FLJ37541 fis, clone BRCAN2026340  	13	1	1	0	0	2	1	0	1	0	hsa-miR-148a-3p	0.0413	0.2419	0.7114	-0.45	-1.17	< 0.1	NULL
+ROBO1	ENST00000436010.2	roundabout, axon guidance receptor, homolog 1 (Drosophila) 	546	2	0	2	0	0	0	0	0	0	hsa-miR-148a-3p	0.0930	0.4935	1.4153	-0.45	-0.45	0.94	2005, 2007, 2009, 2011
+CYB5R4	ENST00000369681.5	cytochrome b5 reductase 4 	329	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0549	0.2992	0.7528	-0.45	-0.45	0.90	2007, 2011
+LIPA	ENST00000336233.5	lipase A, lysosomal acid, cholesterol esterase 	1793	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0750	0.3998	1.1512	-0.44	-0.47	< 0.1	2009, 2011
+KIAA0232	ENST00000425103.1	KIAA0232 	119	2	1	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.2197	0.8720	1.8073	-0.44	-0.52	0.97	2005, 2007, 2009, 2011
+XPO4	ENST00000400602.2	exportin 4 	718	1	1	0	0	2	0	1	1	1	hsa-miR-148a-3p	0.1505	0.6612	1.7448	-0.44	-0.53	0.92	2005, 2007, 2009, 2011
+RPS6KA5	ENST00000261991.3	ribosomal protein S6 kinase, 90kDa, polypeptide 5 	64	2	0	2	0	2	0	2	0	1	hsa-miR-148b-3p	0.0448	0.2967	1.3093	-0.43	-0.80	0.62	2005, 2007
+ABCD3	ENST00000394233.2	ATP-binding cassette, sub-family D (ALD), member 3 	53	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1318	0.5545	1.1112	-0.43	-0.43	0.76	2009, 2011
+POU3F2	ENST00000328345.5	POU class 3 homeobox 2 	274	1	0	1	0	1	0	0	1	0	hsa-miR-152-3p	0.0631	0.3968	1.4891	-0.43	-0.43	0.64	2005, 2007, 2009, 2011
+PBXIP1	ENST00000368465.1	pre-B-cell leukemia homeobox interacting protein 1 	1080	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0726	0.3836	1.0253	-0.43	-0.44	0.80	2005, 2007, 2009, 2011
+SKP1	ENST00000353411.6	S-phase kinase-associated protein 1 	416	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0419	0.2459	0.7307	-0.43	-0.43	0.93	2005, 2007, 2009, 2011
+BHLHE41	ENST00000242728.4	basic helix-loop-helix family, member e41 	50	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1122	0.4916	1.0790	-0.43	-0.48	0.89	2009, 2011
+NEURL4	ENST00000315614.7	neuralized homolog 4 (Drosophila) 	469	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1596	0.5947	1.0129	-0.43	-0.43	0.87	2005, 2007, 2009, 2011
+PTEN	ENST00000371953.3	phosphatase and tensin homolog 	118	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.1137	0.5694	1.5732	-0.43	-0.61	0.99	2011
+MIER1	ENST00000357692.2	mesoderm induction early response 1, transcriptional regulator 	950	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0847	0.4660	1.3129	-0.43	-0.63	0.87	2007, 2009, 2011
+ERBB3	ENST00000267101.3	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 3 	926	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1542	0.6123	1.2577	-0.43	-0.43	0.89	2005, 2007, 2009, 2011
+UGT8	ENST00000310836.6	UDP glycosyltransferase 8 	682	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0383	0.2526	1.0687	-0.42	-0.47	0.66	NULL
+FAM168B	ENST00000409185.1	family with sequence similarity 168, member B 	122	1	0	1	0	1	0	0	1	1	hsa-miR-148a-3p	0.0529	0.3047	0.8973	-0.42	-0.56	0.89	2009, 2011
+YPEL3	ENST00000566134.1	yippee-like 3 (Drosophila) 	330	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0360	0.2164	0.6711	-0.42	-0.42	0.55	2005, 2007, 2009, 2011
+SLC25A44	ENST00000359511.4	solute carrier family 25, member 44 	760	1	0	1	0	2	0	1	1	0	hsa-miR-148a-3p	0.0313	0.2168	1.1158	-0.42	-0.42	0.69	2007, 2009, 2011
+CUL5	ENST00000393094.2	cullin 5 	761	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1277	0.5422	1.1007	-0.42	-0.42	0.85	2005, 2007, 2009, 2011
+DNMT1	ENST00000340748.4	DNA (cytosine-5-)-methyltransferase 1 	47	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0777	0.3914	0.9161	-0.42	-0.42	0.44	2011
+B4GALT6	ENST00000306851.5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6 	146	1	1	0	0	1	1	0	0	0	hsa-miR-148a-3p	0.1139	0.4827	1.0753	-0.42	-0.69	0.88	2011
+ABL2	ENST00000502732.1	c-abl oncogene 2, non-receptor tyrosine kinase 	892	1	0	1	0	1	0	0	1	4	hsa-miR-148a-3p	0.0510	0.3474	1.7469	-0.42	-0.44	0.37	2009, 2011
+AGFG1	ENST00000310078.8	ArfGAP with FG repeats 1 	2019	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0826	0.4530	1.4468	-0.42	-0.43	0.94	2005, 2007, 2009, 2011
+CDH7	ENST00000397968.2	cadherin 7, type 2 	42	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0724	0.3880	1.0644	-0.42	-0.42	0.87	NULL
+H2AFY	ENST00000511689.1	H2A histone family, member Y 	2126	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0492	0.2949	0.9835	-0.42	-0.42	0.79	2005, 2007, 2009, 2011
+SLC2A1	ENST00000426263.3	solute carrier family 2 (facilitated glucose transporter), member 1 	13928	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0925	0.4422	0.9918	-0.42	-0.42	0.87	2005, 2007, 2009, 2011
+ROCK1	ENST00000399799.2	Rho-associated, coiled-coil containing protein kinase 1 	7	2	0	1	1	0	0	0	0	1	hsa-miR-148a-3p	0.1016	0.5863	1.8040	-0.41	-0.41	> 0.99	2007, 2009, 2011
+JMY	ENST00000396137.4	junction mediating and regulatory protein, p53 cofactor 	10	1	1	0	0	1	1	0	0	0	hsa-miR-148a-3p	0.1815	0.8608	1.8933	-0.41	-0.41	0.82	2009, 2011
+SGMS1	ENST00000361781.2	sphingomyelin synthase 1 	100	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0391	0.2463	0.9327	-0.41	-0.41	0.45	2007
+GTF2H1	ENST00000265963.4	general transcription factor IIH, polypeptide 1, 62kDa 	121	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1355	0.4957	0.8539	-0.41	-0.53	0.83	2005, 2007, 2009, 2011
+GPATCH8	ENST00000591680.1	G patch domain containing 8 	337	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.1314	0.5812	1.3992	-0.41	-0.44	0.85	2007, 2009, 2011
+AHDC1	ENST00000247087.5	AT hook, DNA binding motif, containing 1 	174	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0912	0.4434	1.0401	-0.41	-0.41	0.81	2009, 2011
+FAM81A	ENST00000288228.5	family with sequence similarity 81, member A 	53	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0642	0.4037	1.5778	-0.41	-0.41	0.31	2011
+LDLR	ENST00000558518.1	low density lipoprotein receptor 	1462	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.1013	0.5267	1.3643	-0.41	-0.55	0.78	2011
+GAP43	ENST00000305124.6	growth associated protein 43 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0518	0.2880	0.7585	-0.41	-0.41	0.65	2005, 2007, 2009, 2011
+CHST1	ENST00000308064.2	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0544	0.3038	0.8392	-0.41	-0.41	0.89	2009, 2011
+CNTN4	ENST00000427331.1	contactin 4 	191	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1761	0.6241	1.0632	-0.41	-0.41	0.89	2005, 2007, 2009, 2011
+MAF	ENST00000393350.1	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog 	608	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1781	0.7166	1.7353	-0.41	-0.41	0.81	2007, 2009, 2011
+NDP	ENST00000378062.5	Norrie disease (pseudoglioma) 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0389	0.2337	0.7512	-0.40	-0.40	0.27	2009, 2011
+DOCK6	ENST00000294618.7	dedicator of cytokinesis 6 	171	1	1	0	0	0	0	0	0	0	hsa-miR-148b-3p	0.0774	0.3996	1.0306	-0.40	-0.40	< 0.1	2005, 2007, 2009, 2011
+TNRC6C	ENST00000335749.4	trinucleotide repeat containing 6C 	248	2	1	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.1847	0.8126	1.7078	-0.40	-0.42	0.98	2011
+MDFIC	ENST00000393486.1	MyoD family inhibitor domain containing 	601	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0419	0.2485	0.7783	-0.40	-0.41	0.91	2005, 2007, 2009, 2011
+ATP2B4	ENST00000367218.3	ATPase, Ca++ transporting, plasma membrane 4 	7311	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1111	0.5476	1.5535	-0.40	-0.41	0.75	2007, 2009, 2011
+DYNLL2	ENST00000579991.2	dynein, light chain, LC8-type 2 	1162	1	0	1	0	2	0	2	0	4	hsa-miR-148a-3p	0.0748	0.4137	1.2498	-0.40	-0.57	0.93	2007, 2009, 2011
+TRAK2	ENST00000332624.3	trafficking protein, kinesin binding 2 	353	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0756	0.3800	0.8596	-0.40	-0.40	0.19	2007, 2009, 2011
+UBE2D1	ENST00000373910.4	ubiquitin-conjugating enzyme E2D 1 	200	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0299	0.1943	0.7917	-0.40	-0.41	0.58	2005, 2007, 2009, 2011
+NOG	ENST00000332822.4	noggin 	107	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0349	0.2108	0.6637	-0.40	-0.40	0.59	2005, 2007, 2009, 2011
+PDIA3	ENST00000300289.5	protein disulfide isomerase family A, member 3 	884	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0421	0.2490	0.8045	-0.40	-0.45	0.89	2005, 2007, 2009, 2011
+OSBPL11	ENST00000296220.5	oxysterol binding protein-like 11 	101	2	2	0	0	0	0	0	0	0	hsa-miR-152-3p	0.1193	0.5338	1.1531	-0.40	-0.72	0.82	2005, 2007, 2009, 2011
+ITGA11	ENST00000423218.2	integrin, alpha 11 	390	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.1892	0.6854	1.3338	-0.40	-0.46	0.87	2005, 2007, 2009, 2011
+CPT1A	ENST00000265641.5	carnitine palmitoyltransferase 1A (liver) 	869	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.0843	0.4791	1.4513	-0.40	-0.42	0.41	2011
+BTAF1	ENST00000265990.6	BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, 170kDa 	917	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0699	0.3739	1.0088	-0.40	-0.40	0.86	2005, 2007
+PRR15	ENST00000319694.2	proline rich 15 	244	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0231	0.1487	0.5760	-0.40	-0.44	0.30	NULL
+LAMA4	ENST00000230538.7	laminin, alpha 4 	605	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0912	0.4484	1.1015	-0.40	-0.40	0.79	2011
+RNF38	ENST00000259605.6	ring finger protein 38 	348	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0752	0.3983	1.0903	-0.40	-0.40	0.67	2005, 2007, 2009, 2011
+TEK	ENST00000380036.4	TEK tyrosine kinase, endothelial 	1007	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0599	0.3259	0.8576	-0.40	-0.40	0.29	2009, 2011
+ACVR1	ENST00000263640.3	activin A receptor, type I 	1523	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0421	0.2587	0.9386	-0.40	-0.40	0.67	2005, 2007, 2009, 2011
+SESN2	ENST00000253063.3	sestrin 2 	854	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0804	0.4187	1.1103	-0.40	-0.40	0.11	2011
+ATP7A	ENST00000343533.5	ATPase, Cu++ transporting, alpha polypeptide 	141	1	1	0	0	0	0	0	0	2	hsa-miR-152-3p	0.1206	0.6102	1.7599	-0.39	-0.40	0.80	2005, 2007, 2009, 2011
+MAF1	ENST00000322428.5	MAF1 homolog (S. cerevisiae) 	698	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0326	0.2013	0.6847	-0.39	-0.39	0.77	2005, 2007, 2009, 2011
+MOB1B	ENST00000309395.2	MOB kinase activator 1B 	54	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0636	0.4118	1.7015	-0.39	-0.40	0.41	2005, 2007, 2009, 2011
+LRRC41	ENST00000343304.6	leucine rich repeat containing 41 	1532	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0684	0.3551	0.8467	-0.39	-0.39	0.34	2007, 2009, 2011
+LBR	ENST00000272163.4	lamin B receptor 	1217	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0784	0.3866	0.8321	-0.39	-0.39	0.22	2005, 2007, 2009, 2011
+ASPH	ENST00000356457.5	aspartate beta-hydroxylase 	3013	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0619	0.3348	0.8794	-0.39	-0.39	0.53	2009, 2011
+SIK1	ENST00000270162.6	salt-inducible kinase 1 	2163	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1546	0.5852	1.0272	-0.39	-0.39	0.89	2007, 2009, 2011
+MAP3K4	ENST00000366919.2	mitogen-activated protein kinase kinase kinase 4 	241	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1228	0.5391	1.1507	-0.39	-0.39	0.79	2009, 2011
+ESR1	ENST00000440973.1	estrogen receptor 1 	5	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0636	0.3770	1.3752	-0.39	-0.39	0.76	2005, 2007, 2009, 2011
+FMR1	ENST00000370471.3	fragile X mental retardation 1 	1155	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1575	0.6068	1.1338	-0.39	-0.39	0.85	2005, 2007, 2009, 2011
+COL2A1	ENST00000380518.3	collagen, type II, alpha 1 	1518	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1309	0.5361	0.9811	-0.39	-0.39	0.80	2005, 2007, 2009, 2011
+UNC79	ENST00000553484.1	unc-79 homolog (C. elegans) 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1052	0.4875	1.1025	-0.38	-0.38	0.52	NULL
+AKAP1	ENST00000337714.3	A kinase (PRKA) anchor protein 1 	843	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0527	0.2979	0.8520	-0.38	-0.41	0.92	2005, 2007, 2009, 2011
+TMSB10	ENST00000233143.4	thymosin beta 10 	49918	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0190	0.1254	0.5145	-0.38	-0.38	0.43	2005, 2007, 2011
+CSF1	ENST00000329608.6	colony stimulating factor 1 (macrophage) 	290	2	1	1	0	1	1	0	0	2	hsa-miR-152-3p	0.1536	0.8735	2.5886	-0.38	-0.38	0.72	2005, 2007, 2009, 2011
+ESRRG	ENST00000361525.3	estrogen-related receptor gamma 	5	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1285	0.5534	1.1743	-0.38	-0.38	0.84	2005, 2007, 2009, 2011
+UHMK1	ENST00000538489.1	U2AF homology motif (UHM) kinase 1 	48	2	0	1	1	1	0	0	1	3	hsa-miR-148a-3p	0.0787	0.4711	1.6431	-0.37	-0.72	0.94	2005, 2007, 2011
+STX6	ENST00000258301.5	syntaxin 6 	348	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0448	0.2742	0.9983	-0.37	-0.37	< 0.1	2011
+PHACTR2	ENST00000427704.2	phosphatase and actin regulator 2 	274	1	0	1	0	1	0	0	1	2	hsa-miR-148a-3p	0.0542	0.3467	1.4696	-0.37	-0.38	0.76	2005, 2007, 2009, 2011
+MED12L	ENST00000474524.1	mediator complex subunit 12-like 	30	1	1	0	0	1	1	0	0	0	hsa-miR-148a-3p	0.1262	0.5993	1.4985	-0.37	-0.39	0.89	2005, 2007, 2009, 2011
+JHDM1D	ENST00000397560.2	jumonji C domain containing histone demethylase 1 homolog D (S. cerevisiae) 	470	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0595	0.3826	1.6021	-0.37	-0.42	0.76	2009, 2011
+TFRC	ENST00000540528.1	transferrin receptor 	296	1	0	0	1	1	0	0	1	0	hsa-miR-152-3p	0.0378	0.2350	0.8642	-0.37	-0.39	0.75	2007, 2009, 2011
+RSBN1L	ENST00000334955.8	round spermatid basic protein 1-like 	640	1	0	1	0	0	0	0	0	1	hsa-miR-148b-3p	0.0789	0.4405	1.4401	-0.37	-0.38	0.92	2005, 2007, 2009, 2011
+ITGA5	ENST00000293379.4	integrin, alpha 5 (fibronectin receptor, alpha polypeptide) 	5599	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0790	0.4484	1.3225	-0.37	-0.37	0.83	2005, 2007, 2009, 2011
+RAB24	ENST00000393611.2	RAB24, member RAS oncogene family 	908	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0298	0.1859	0.6487	-0.37	-0.37	0.45	2009, 2011
+FOXF1	ENST00000262426.4	forkhead box F1 	836	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0726	0.3662	0.8150	-0.37	-0.37	0.89	2009, 2011
+FAM184A	ENST00000338891.7	family with sequence similarity 184, member A 	167	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0415	0.2425	0.7029	-0.37	-0.37	0.32	2011
+NFYA	ENST00000341376.6	nuclear transcription factor Y, alpha 	177	1	0	1	0	3	0	0	3	1	hsa-miR-148a-3p	0.0535	0.3445	1.3837	-0.37	-0.70	0.61	2011
+SIRT7	ENST00000328666.6	sirtuin 7 	8	2	0	2	0	0	0	0	0	0	hsa-miR-148a-3p	0.0316	0.2080	0.8550	-0.37	-0.48	0.67	2005, 2007, 2011
+HLA-DQB1	ENST00000399082.3	major histocompatibility complex, class II, DQ beta 1 	40	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0247	0.1692	0.8201	-0.37	-0.37	< 0.1	2011
+DMPK	ENST00000354227.5	dystrophia myotonica-protein kinase 	409	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0815	0.3937	0.8208	-0.37	-0.38	0.67	2009, 2011
+CCDC71	ENST00000321895.6	coiled-coil domain containing 71 	64	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0426	0.2490	0.7344	-0.37	-0.37	0.87	2007, 2009, 2011
+UBE2W	ENST00000517608.1	ubiquitin-conjugating enzyme E2W (putative) 	102	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0950	0.4605	1.1108	-0.37	-0.37	0.92	2007, 2009, 2011
+ST18	ENST00000276480.7	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein) 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1275	0.5649	1.3115	-0.37	-0.37	0.83	2009, 2011
+SBF2	ENST00000256190.8	SET binding factor 2 	65	1	1	0	0	1*	0	0	0	0	hsa-miR-148a-3p	0.1619	0.6688	1.6047	-0.37	-0.37	0.87	2011
+PNPLA2	ENST00000336615.4	patatin-like phospholipase domain containing 2 	6586	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0476	0.2703	0.7435	-0.37	-0.37	0.19	NULL
+UBXN1	ENST00000294119.2	UBX domain protein 1 	48	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0316	0.1950	0.6523	-0.37	-0.37	0.53	2005, 2007, 2009, 2011
+KCND3	ENST00000369697.1	potassium voltage-gated channel, Shal-related subfamily, member 3 	23	2	0	0	2	1	0	1	0	0	hsa-miR-148a-3p	0.0491	0.3228	1.3998	-0.36	-0.36	0.83	NULL
+CANX	ENST00000247461.4	calnexin 	17053	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1698	0.5623	0.8800	-0.36	-0.43	0.89	2005, 2007, 2009, 2011
+RORB	ENST00000376896.3	RAR-related orphan receptor B 	5	1	0	1	0	2	0	2	0	1	hsa-miR-148a-3p	0.1023	0.6235	2.3861	-0.36	-0.36	0.90	2005, 2007
+FBXL19	ENST00000338343.4	F-box and leucine-rich repeat protein 19 	75	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1251	0.5256	1.0035	-0.36	-0.36	0.83	2009, 2011
+YTHDC2	ENST00000161863.4	YTH domain containing 2 	463	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1060	0.4956	1.1485	-0.36	-0.36	0.83	2009, 2011
+SECISBP2L	ENST00000559471.1	SECIS binding protein 2-like 	161	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0488	0.3082	1.2217	-0.36	-0.36	0.76	2009, 2011
+ZDHHC17	ENST00000426126.2	zinc finger, DHHC-type containing 17 	117	1	1	0	0	1	0	0	1	0	hsa-miR-148b-3p	0.1287	0.5239	1.1253	-0.36	-0.56	0.85	2005, 2007, 2009, 2011
+GRID2	ENST00000282020.4	glutamate receptor, ionotropic, delta 2 	5	2	1	1	0	0	0	0	0	0	hsa-miR-152-3p	0.0902	0.5202	1.5685	-0.36	-0.36	0.71	NULL
+C2orf91	ENST00000378711.2	chromosome 2 open reading frame 91 	5	1	0	1	0	1	1	0	0	1	hsa-miR-148a-3p	0.0446	0.2970	1.3428	-0.36	-0.36	0.29	NULL
+KIAA1468	ENST00000398130.2	KIAA1468 	756	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0511	0.2865	0.7752	-0.36	-0.36	0.93	2005, 2007, 2009, 2011
+NOVA1	ENST00000465357.2	neuro-oncological ventral antigen 1 	5	1	0	0	1	0	0	0	0	2	hsa-miR-148a-3p	0.0726	0.4248	1.4842	-0.36	-0.36	0.57	2005, 2007, 2011
+SLC13A2	ENST00000314669.5	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0281	0.1872	0.8472	-0.36	-0.36	0.29	2011
+WASL	ENST00000223023.4	Wiskott-Aldrich syndrome-like 	230	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0609	0.3773	1.3684	-0.36	-0.37	0.64	2009, 2011
+TBC1D5	ENST00000253692.7	TBC1 domain family, member 5 	400	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0679	0.3776	1.1628	-0.36	-0.38	0.39	2009, 2011
+WNT10B	ENST00000407467.1	wingless-type MMTV integration site family, member 10B 	13	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0690	0.3671	0.9662	-0.36	-0.36	0.36	2005, 2007, 2009, 2011
+ZBTB18	ENST00000358704.4	zinc finger and BTB domain containing 18 	935	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0524	0.3180	1.1757	-0.36	-0.36	0.62	2005, 2007, 2009, 2011
+ORMDL1	ENST00000392350.3	ORM1-like 1 (S. cerevisiae) 	998	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0274	0.1724	0.6062	-0.36	-0.36	0.38	NULL
+MNT	ENST00000174618.4	MNT, MAX dimerization protein 	146	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1162	0.4709	0.9159	-0.36	-0.44	0.82	2005, 2007, 2009, 2011
+PDE4D	ENST00000340635.6	phosphodiesterase 4D, cAMP-specific 	747	2	1	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0670	0.4211	1.5703	-0.35	-0.38	0.87	2009, 2011
+BMP3	ENST00000282701.2	bone morphogenetic protein 3 	36	1	0	1	0	0	0	0	0	1	hsa-miR-148b-3p	0.0536	0.3030	0.8619	-0.35	-0.37	0.89	2009, 2011
+ADAM17	ENST00000310823.3	ADAM metallopeptidase domain 17 	96	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0475	0.2826	0.8591	-0.35	-0.51	0.83	2009, 2011
+PRKAA1	ENST00000397128.2	protein kinase, AMP-activated, alpha 1 catalytic subunit 	1415	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1122	0.5126	1.2462	-0.35	-0.42	0.75	2005, 2007, 2009, 2011
+GPR116	ENST00000283296.7	G protein-coupled receptor 116 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0915	0.4666	1.2475	-0.35	-0.35	< 0.1	2005, 2007, 2009, 2011
+AGO1	ENST00000373204.4	argonaute RISC catalytic component 1 	402	2	1	1	0	4	2	1	1	4	hsa-miR-148a-3p	0.1686	1.0158	3.6302	-0.35	-0.42	0.86	2005, 2007, 2009, 2011
+HSP90B1	ENST00000299767.5	heat shock protein 90kDa beta (Grp94), member 1 	42	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0466	0.2814	0.9233	-0.35	-0.44	0.87	2007
+FAM43A	ENST00000329759.4	family with sequence similarity 43, member A 	287	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0309	0.1949	0.7190	-0.35	-0.42	0.74	2009, 2011
+DMRTA2	ENST00000418121.1	DMRT-like family A2 	9	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0354	0.2312	0.9651	-0.35	-0.36	0.53	2011
+STX11	ENST00000367568.4	syntaxin 11 	13	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0689	0.3591	0.8733	-0.35	-0.38	0.68	2011
+RBM24	ENST00000379052.5	RNA binding motif protein 24 	43	2	0	1	1	0	0	0	0	0	hsa-miR-148a-3p	0.0465	0.2812	0.9049	-0.35	-0.60	0.82	2005, 2007, 2009, 2011
+EPAS1	ENST00000263734.3	endothelial PAS domain protein 1 	3689	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.1363	0.6721	1.7574	-0.35	-0.35	0.77	2005, 2007, 2009, 2011
+ITPK1	ENST00000267615.6	inositol-tetrakisphosphate 1-kinase 	60	1	0	1	0	1	0	0	1	3	hsa-miR-152-3p	0.0820	0.4682	1.5366	-0.35	-0.35	0.92	2005, 2007, 2009, 2011
+NR2E1	ENST00000368986.4	nuclear receptor subfamily 2, group E, member 1 	5	1	0	0	1	1	1	0	0	0	hsa-miR-148a-3p	0.0401	0.2610	1.0375	-0.35	-0.35	0.52	NULL
+DSTYK	ENST00000367160.4	dual serine/threonine and tyrosine protein kinase 	256	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.1325	0.6238	1.8222	-0.35	-0.38	0.78	2009, 2011
+NAP1L1	ENST00000261182.8	nucleosome assembly protein 1-like 1 	9072	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0368	0.2214	0.6893	-0.35	-0.55	0.87	2009, 2011
+RAB12	ENST00000329286.6	RAB12, member RAS oncogene family 	589	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0322	0.2043	0.7749	-0.35	-0.35	0.37	2007, 2011
+ALCAM	ENST00000306107.5	activated leukocyte cell adhesion molecule 	371	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.1672	0.6073	1.0061	-0.35	-0.35	0.83	2009, 2011
+FBN1	ENST00000316623.5	fibrillin 1 	798	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0706	0.4078	1.3741	-0.35	-0.35	0.84	2005, 2007, 2009, 2011
+MTMR1	ENST00000445323.2	myotubularin related protein 1 	489	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0793	0.4021	0.9839	-0.34	-0.34	0.62	2009, 2011
+SSR1	ENST00000244763.4	signal sequence receptor, alpha 	12917	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0346	0.2122	0.7172	-0.34	-0.39	0.78	2005, 2007, 2009, 2011
+MAFG	ENST00000357736.4	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog G 	5	1	1	0	0	0	0	0	0	2	hsa-miR-152-3p	0.2479	0.7511	1.2874	-0.34	-0.34	0.89	2009, 2011
+MPPED2	ENST00000358117.5	metallophosphoesterase domain containing 2 	42	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0443	0.2551	0.7167	-0.34	-0.34	0.67	2007, 2009, 2011
+ESCO1	ENST00000269214.5	establishment of sister chromatid cohesion N-acetyltransferase 1 	94	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0992	0.4521	0.8971	-0.34	-0.34	0.85	2011
+ITSN2	ENST00000361999.3	intersectin 2 	63	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0990	0.4790	1.1587	-0.34	-0.34	0.66	2005, 2007, 2009, 2011
+OTUD4	ENST00000454497.2	OTU domain containing 4 	18	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1495	0.6381	1.4783	-0.34	-0.34	0.89	2007, 2009, 2011
+CHMP4B	ENST00000217402.2	charged multivesicular body protein 4B 	1230	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0164	0.1111	0.5274	-0.34	-0.36	0.47	2009, 2011
+SLC16A6	ENST00000327268.4	solute carrier family 16, member 6 	17	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1481	0.5669	0.9488	-0.34	-0.34	0.61	2011
+EPN2	ENST00000314728.5	epsin 2 	1609	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0964	0.5029	1.4129	-0.34	-0.37	0.84	2005, 2007, 2009, 2011
+PTGES3	ENST00000262033.6	prostaglandin E synthase 3 (cytosolic) 	93	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0218	0.1438	0.6064	-0.34	-0.34	0.46	2009, 2011
+MLLT10	ENST00000377072.3	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10 	495	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.1418	0.5558	0.9596	-0.33	-0.39	0.71	2005, 2007, 2009, 2011
+ADCY2	ENST00000338316.4	adenylate cyclase 2 (brain) 	13	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0556	0.3238	1.0227	-0.33	-0.33	0.89	2005, 2007, 2009, 2011
+RASAL1	ENST00000546530.1	RAS protein activator like 1 (GAP1 like) 	12	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0894	0.4295	0.9442	-0.33	-0.33	0.80	2009, 2011
+TMEM63B	ENST00000259746.9	transmembrane protein 63B 	557	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0323	0.2049	0.7822	-0.33	-0.33	0.34	2007, 2011
+CEP63	ENST00000337090.3	centrosomal protein 63kDa 	191	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0412	0.2453	0.7721	-0.33	-0.44	0.32	2011
+SOGA2	ENST00000359865.3	SOGA family member 2 	47	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0505	0.2917	0.8924	-0.33	-0.33	0.53	2009, 2011
+F3	ENST00000334047.7	coagulation factor III (thromboplastin, tissue factor) 	13568	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0339	0.2149	0.8275	-0.33	-0.37	0.44	2011
+DNAJB4	ENST00000370763.5	DnaJ (Hsp40) homolog, subfamily B, member 4 	633	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0351	0.2119	0.6652	-0.33	-0.34	0.79	2009, 2011
+NEUROD1	ENST00000295108.3	neuronal differentiation 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0340	0.2078	0.6855	-0.33	-0.33	0.53	2009, 2011
+PPP1CB	ENST00000395366.2	protein phosphatase 1, catalytic subunit, beta isozyme 	5795	1	0	1	0	0	0	0	0	0	hsa-miR-148b-3p	0.0479	0.2837	0.9300	-0.33	-0.33	0.91	2005, 2007, 2009, 2011
+RC3H1	ENST00000367696.2	ring finger and CCCH-type domains 1 	165	2	1	0	1	1	0	0	1	1	hsa-miR-148a-3p	0.1384	0.7519	2.1814	-0.33	-0.37	0.85	2009, 2011
+EMX2	ENST00000442245.4	empty spiracles homeobox 2 	54	1	0	0	1	0	0	0	0	0	hsa-miR-152-3p	0.0459	0.2626	0.7745	-0.33	-0.37	0.64	2005, 2007, 2009, 2011
+PDE7A	ENST00000401827.3	phosphodiesterase 7A 	84	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0600	0.3314	0.9255	-0.33	-0.33	0.89	NULL
+ITFG3	ENST00000399932.3	integrin alpha FG-GAP repeat containing 3 	1046	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.0395	0.2559	1.0450	-0.33	-0.33	0.52	2007, 2009, 2011
+ZNF821	ENST00000564134.1	zinc finger protein 821 	56	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0451	0.2587	0.7206	-0.33	-0.33	< 0.1	NULL
+RICTOR	ENST00000357387.3	RPTOR independent companion of MTOR, complex 2 	441	2	0	1	1	0	0	0	0	1	hsa-miR-152-3p	0.0780	0.4964	2.0014	-0.33	-0.33	0.75	2007, 2009, 2011
+PHF20	ENST00000439301.1	PHD finger protein 20 	191	1	0	1	0	1	1	0	0	1	hsa-miR-148a-3p	0.0690	0.4132	1.4833	-0.33	-0.51	0.43	2007, 2009, 2011
+KLF4	ENST00000374672.4	Kruppel-like factor 4 (gut) 	22	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0304	0.1880	0.6310	-0.33	-0.33	0.58	2005, 2007, 2009, 2011
+ADAM10	ENST00000260408.3	ADAM metallopeptidase domain 10 	385	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0889	0.4159	0.8879	-0.32	-0.36	0.86	NULL
+NAT14	ENST00000205194.4	N-acetyltransferase 14 (GCN5-related, putative) 	392	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.0579	0.3123	0.7704	-0.32	-0.32	< 0.1	2007, 2009, 2011
+USP38	ENST00000307017.4	ubiquitin specific peptidase 38 	419	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0328	0.2058	0.7558	-0.32	-0.39	0.65	NULL
+LMAN1	ENST00000251047.5	lectin, mannose-binding, 1 	2293	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0842	0.3896	0.8088	-0.32	-0.38	0.51	2011
+KLHL5	ENST00000261425.3	kelch-like family member 5 	366	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0211	0.1437	0.6829	-0.32	-0.43	0.60	2011
+NRARP	ENST00000356628.2	NOTCH-regulated ankyrin repeat protein 	56	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0937	0.3630	0.5942	-0.32	-0.52	0.88	2005, 2007, 2009, 2011
+C6orf62	ENST00000378119.4	chromosome 6 open reading frame 62 	300	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0229	0.1544	0.7145	-0.32	-0.36	0.76	2005, 2007
+PPFIA2	ENST00000549396.1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 2 	5	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0297	0.2118	1.2557	-0.32	-0.32	0.49	2005, 2007
+TNFRSF1B	ENST00000376259.3	tumor necrosis factor receptor superfamily, member 1B 	243	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0585	0.3217	0.8719	-0.32	-0.32	0.67	2009, 2011
+LRCH1	ENST00000311191.6	leucine-rich repeats and calponin homology (CH) domain containing 1 	381	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0617	0.3933	1.5852	-0.32	-0.32	0.47	2011
+JPH3	ENST00000284262.2	junctophilin 3 	318	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0655	0.3468	0.8685	-0.32	-0.32	0.84	2005, 2007, 2009, 2011
+EYA3	ENST00000373871.3	eyes absent homolog 3 (Drosophila) 	50	1	1	0	0	0	0	0	0	2	hsa-miR-148b-3p	0.1905	0.6799	1.3157	-0.32	-0.32	0.83	2011
+DUSP1	ENST00000239223.3	dual specificity phosphatase 1 	37211	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0459	0.2636	0.7460	-0.32	-0.32	0.81	NULL
+DENND4C	ENST00000380432.2	DENN/MADD domain containing 4C 	195	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0430	0.2755	1.0749	-0.32	-0.44	0.87	2007, 2009, 2011
+SGCB	ENST00000381431.5	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein) 	1795	1	1	0	0	2	1	1	0	2	hsa-miR-148a-3p	0.0646	0.3730	1.2540	-0.32	-0.56	< 0.1	2011
+CEBPG	ENST00000284000.4	CCAAT/enhancer binding protein (C/EBP), gamma 	360	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0375	0.2330	0.8454	-0.32	-0.32	0.53	2009, 2011
+UBA6	ENST00000322244.5	ubiquitin-like modifier activating enzyme 6 	169	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0906	0.4410	1.0320	-0.32	-0.32	0.55	NULL
+ATP8A1	ENST00000381668.5	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1 	48	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0899	0.5124	1.7791	-0.32	-0.34	0.84	2009, 2011
+EPS15	ENST00000371730.2	epidermal growth factor receptor pathway substrate 15 	325	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0637	0.3730	1.2818	-0.32	-0.55	0.84	2005, 2007, 2009, 2011
+EDNRA	ENST00000339690.5	endothelin receptor type A 	35	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0338	0.2253	0.9798	-0.32	-0.32	< 0.1	NULL
+COL4A1	ENST00000375820.4	collagen, type IV, alpha 1 	6549	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0800	0.3895	0.8177	-0.31	-0.32	0.62	2009, 2011
+DCUN1D4	ENST00000334635.5	DCN1, defective in cullin neddylation 1, domain containing 4 	1118	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0339	0.2062	0.6664	-0.31	-0.31	0.36	2009, 2011
+BCL7B	ENST00000223368.2	B-cell CLL/lymphoma 7B 	4037	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0246	0.1600	0.6501	-0.31	-0.31	0.63	2007, 2009, 2011
+PAPD4	ENST00000453514.1	PAP associated domain containing 4 	434	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0313	0.1947	0.6807	-0.31	-0.31	0.58	2005, 2007, 2011
+DRGX	ENST00000374139.2	dorsal root ganglia homeobox 	5	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0597	0.3199	0.7846	-0.31	-0.31	0.81	NULL
+CERS5	ENST00000317551.6	ceramide synthase 5 	86	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0153	0.1038	0.4779	-0.31	-0.31	0.53	2005, 2007
+CNOT7	ENST00000361272.4	CCR4-NOT transcription complex, subunit 7 	415	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0417	0.2484	0.7866	-0.31	-0.31	0.81	NULL
+PIGG	ENST00000296306.7	phosphatidylinositol glycan anchor biosynthesis, class G 	487	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0394	0.2621	1.1572	-0.31	-0.31	< 0.1	NULL
+ATP11A	ENST00000487903.1	ATPase, class VI, type 11A 	731	2	2	0	0	1	0	1	0	2	hsa-miR-148b-3p	0.2299	0.9848	2.2554	-0.31	-0.36	0.96	2009, 2011
+LMTK2	ENST00000297293.5	lemur tyrosine kinase 2 	51	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0634	0.3339	0.7940	-0.31	-0.31	0.74	2005, 2007, 2009, 2011
+ITGB8	ENST00000222573.4	integrin, beta 8 	17	1	0	0	1	2	0	2	0	0	hsa-miR-148a-3p	0.0864	0.4975	1.7530	-0.31	-0.31	0.85	2005, 2007, 2009, 2011
+SRPK2	ENST00000393651.3	SRSF protein kinase 2 	381	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0501	0.2808	0.7466	-0.31	-0.31	0.90	2009, 2011
+CYTH3	ENST00000350796.3	cytohesin 3 	248	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.1302	0.5123	0.8668	-0.31	-0.33	0.89	2005, 2007, 2009, 2011
+CAMK2A	ENST00000348628.6	calcium/calmodulin-dependent protein kinase II alpha 	5	1	0	1	0	2	0	0	2	2	hsa-miR-152-3p	0.0934	0.5433	1.8821	-0.31	-0.31	0.46	2005, 2007, 2009, 2011
+NOL4	ENST00000261592.5	nucleolar protein 4 	12	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0787	0.4076	1.0702	-0.31	-0.31	0.30	2007, 2009, 2011
+PTPN14	ENST00000366956.5	protein tyrosine phosphatase, non-receptor type 14 	301	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0581	0.3793	1.6000	-0.31	-0.34	0.40	2011
+IL6ST	ENST00000381287.4	interleukin 6 signal transducer (gp130, oncostatin M receptor) 	213	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1176	0.5364	1.2680	-0.31	-0.31	0.87	2011
+FOXK2	ENST00000335255.5	forkhead box K2 	450	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0638	0.3439	0.9092	-0.31	-0.38	0.82	2005, 2007, 2009, 2011
+CAV2	ENST00000222693.4	caveolin 2 	1191	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0190	0.1252	0.5115	-0.31	-0.32	0.44	2009, 2011
+HECW2	ENST00000260983.3	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2 	28	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.2633	0.8092	1.5844	-0.31	-0.31	0.89	2005, 2007, 2009, 2011
+SYNJ1	ENST00000357345.3	synaptojanin 1 	143	1	1	0	0	2	0	2	0	0	hsa-miR-148a-3p	0.0924	0.4782	1.3579	-0.31	-0.33	0.75	2005, 2007, 2009, 2011
+UBE2D3	ENST00000453744.2	ubiquitin-conjugating enzyme E2D 3 	2312	2	0	1	1	0	0	0	0	0	hsa-miR-148a-3p	0.0439	0.2530	0.7251	-0.31	-0.60	0.72	2005, 2007, 2009, 2011
+DYRK1B	ENST00000593685.1	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1B 	7	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0532	0.2941	0.7675	-0.30	-0.30	0.89	2005, 2007, 2009, 2011
+KIAA1045	ENST00000242315.3	KIAA1045 	42	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.0663	0.4077	1.4775	-0.30	-0.33	0.33	2009, 2011
+GAPVD1	ENST00000470056.1	GTPase activating protein and VPS9 domains 1 	1805	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1403	0.5588	1.0388	-0.30	-0.31	0.86	2009, 2011
+SYT2	ENST00000367267.1	synaptotagmin II 	5	1	1	0	0	1	0	0	1	1	hsa-miR-152-3p	0.1721	0.7406	1.8974	-0.30	-0.30	0.86	2011
+HIF1AN	ENST00000299163.6	hypoxia inducible factor 1, alpha subunit inhibitor 	1545	1	1	0	0	2	1	1	0	3	hsa-miR-148b-3p	0.1368	0.5406	1.2061	-0.30	-0.65	0.89	2009, 2011
+CHD1	ENST00000284049.3	chromodomain helicase DNA binding protein 1 	35	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0319	0.1962	0.6500	-0.30	-0.30	0.86	2009, 2011
+PPP1R7	ENST00000234038.6	protein phosphatase 1, regulatory subunit 7 	119	1	0	0	1	0	0	0	0	0	hsa-miR-152-3p	0.0200	0.1310	0.5270	-0.30	-0.30	0.69	NULL
+MTMR10	ENST00000435680.1	myotubularin related protein 10 	30	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0501	0.3090	1.1431	-0.30	-0.32	0.66	2009, 2011
+ARL6IP1	ENST00000304414.7	ADP-ribosylation factor-like 6 interacting protein 1 	25	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0842	0.3390	0.6783	-0.30	-0.58	0.86	2007, 2009, 2011
+GDF6	ENST00000287020.5	growth differentiation factor 6 	14	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0519	0.3011	0.9403	-0.30	-0.30	0.90	2005, 2007, 2009, 2011
+PI4KA	ENST00000255882.6	phosphatidylinositol 4-kinase, catalytic, alpha 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0415	0.2445	0.7374	-0.30	-0.30	0.73	2011
+ATG4D	ENST00000309469.4	autophagy related 4D, cysteine peptidase 	801	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0247	0.1573	0.5789	-0.30	-0.30	0.57	2011
+CPEB4	ENST00000265085.5	cytoplasmic polyadenylation element binding protein 4 	472	2	0	2	0	0	0	0	0	1	hsa-miR-148a-3p	0.0422	0.2893	1.4526	-0.30	-0.30	0.75	2003, 2005, 2007, 2009, 2011
+MDGA2	ENST00000439988.3	MAM domain-containing glycosylphosphatidylinositol anchor protein 2  	0	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0324	0.2187	1.0527	-0.30	-0.30	0.56	NULL
+RAB39B	ENST00000369454.3	RAB39B, member RAS oncogene family 	10	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0482	0.2813	0.9336	-0.30	-0.36	0.80	2009
+TANC1	ENST00000263635.6	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1 	618	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1452	0.5517	0.9091	-0.30	-0.31	0.89	2009, 2011
+CS	ENST00000548567.1	citrate synthase 	52	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0380	0.2268	0.6981	-0.30	-0.30	0.68	2005, 2007, 2009, 2011
+ZNF804A	ENST00000302277.6	zinc finger protein 804A 	5	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0485	0.2786	0.8134	-0.30	-0.30	0.50	NULL
+GPR137C	ENST00000321662.6	G protein-coupled receptor 137C 	110	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1208	0.5319	1.2673	-0.30	-0.33	0.89	2009, 2011
+RLIM	ENST00000332687.6	ring finger protein, LIM domain interacting 	662	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0686	0.3640	0.9509	-0.30	-0.35	0.81	2005, 2007, 2011
+PRRG1	ENST00000378628.4	proline rich Gla (G-carboxyglutamic acid) 1 	1122	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0596	0.3208	0.8148	-0.30	-0.30	0.17	2009, 2011
+CDH20	ENST00000262717.4	cadherin 20, type 2 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0418	0.2450	0.7246	-0.30	-0.30	0.47	NULL
+TAF4	ENST00000252996.4	TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa 	61	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0329	0.2000	0.6409	-0.30	-0.31	0.57	2005, 2007, 2009, 2011
+TEAD1	ENST00000361905.4	TEA domain family member 1 (SV40 transcriptional enhancer factor) 	740	1	0	1	0	1	0	1	0	1	hsa-miR-152-3p	0.0865	0.5404	2.1128	-0.30	-0.30	0.50	2005, 2007, 2009, 2011
+ZBED4	ENST00000216268.5	zinc finger, BED-type containing 4 	2276	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0849	0.4192	0.9791	-0.30	-0.30	0.86	2005, 2007, 2009, 2011
+ZC3H12C	ENST00000278590.3	zinc finger CCCH-type containing 12C 	150	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0623	0.3456	1.0084	-0.30	-0.30	0.74	2009, 2011
+CCDC85A	ENST00000407595.2	coiled-coil domain containing 85A 	46	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0347	0.2148	0.7512	-0.30	-0.30	0.53	2007, 2009, 2011
+STK38L	ENST00000389032.3	serine/threonine kinase 38 like 	705	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0379	0.2369	0.8844	-0.30	-0.33	0.73	2009, 2011
+MAP2K1	ENST00000307102.5	mitogen-activated protein kinase kinase 1 	8	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0295	0.1846	0.6490	-0.29	-0.29	0.29	NULL
+FAM161A	ENST00000404929.1	family with sequence similarity 161, member A 	275	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0389	0.2335	0.7452	-0.29	-0.29	< 0.1	2011
+BCL7A	ENST00000538010.1	B-cell CLL/lymphoma 7A 	96	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0421	0.2654	1.0681	-0.29	-0.35	0.44	2005, 2007, 2011
+CHD7	ENST00000423902.2	chromodomain helicase DNA binding protein 7 	925	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0701	0.3652	0.9058	-0.29	-0.31	0.93	2011
+STOX2	ENST00000308497.4	storkhead box 2 	379	1	1	0	0	0	0	0	0	0	hsa-miR-148b-3p	0.2132	0.6772	1.0914	-0.29	-0.31	0.89	NULL
+PRICKLE2	ENST00000295902.6	prickle homolog 2 (Drosophila) 	20	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0456	0.2903	1.2008	-0.29	-0.29	0.90	2005, 2007, 2009, 2011
+LIN28A	ENST00000326279.6	lin-28 homolog A (C. elegans) 	5	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0380	0.2340	0.8320	-0.29	-0.29	0.57	2005, 2007, 2009, 2011
+MAX	ENST00000284165.6	MYC associated factor X 	51	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0361	0.2443	1.1359	-0.29	-0.29	< 0.1	NULL
+ABCB10	ENST00000344517.4	ATP-binding cassette, sub-family B (MDR/TAP), member 10 	53	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0529	0.2943	0.7894	-0.29	-0.29	0.57	2009
+C16orf70	ENST00000219139.3	chromosome 16 open reading frame 70 	485	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0491	0.2880	0.9216	-0.29	-0.29	0.30	2007
+CECR6	ENST00000399875.1	cat eye syndrome chromosome region, candidate 6 	5	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0307	0.2046	0.9524	-0.29	-0.29	< 0.1	2009, 2011
+DMXL1	ENST00000311085.8	Dmx-like 1 	136	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1434	0.5959	1.2906	-0.29	-0.29	0.89	2005, 2007, 2009, 2011
+RALBP1	ENST00000383432.3	ralA binding protein 1 	134	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0497	0.2804	0.7680	-0.29	-0.29	0.88	2005, 2007, 2009, 2011
+SOCS3	ENST00000330871.2	suppressor of cytokine signaling 3 	5	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0309	0.1965	0.7467	-0.29	-0.29	0.62	2009, 2011
+CDC25B	ENST00000245960.5	cell division cycle 25B 	3358	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0427	0.2467	0.6964	-0.29	-0.30	0.60	2005, 2007, 2009, 2011
+E2F7	ENST00000416496.2	E2F transcription factor 7 	308	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0578	0.3158	0.8617	-0.29	-0.31	0.83	2005, 2007, 2009, 2011
+PPP1R12A	ENST00000261207.5	protein phosphatase 1, regulatory subunit 12A 	276	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0490	0.2816	0.8325	-0.29	-0.29	0.63	2005, 2007, 2009, 2011
+PAG1	ENST00000220597.4	phosphoprotein associated with glycosphingolipid microdomains 1 	53	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0695	0.4201	1.5952	-0.29	-0.29	< 0.1	NULL
+RAB14	ENST00000373840.4	RAB14, member RAS oncogene family 	586	2	0	1	1	0	0	0	0	1	hsa-miR-148a-3p	0.0308	0.1927	0.7028	-0.29	-0.62	0.75	2009, 2011
+USP47	ENST00000339865.5	ubiquitin specific peptidase 47 	665	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0484	0.3257	1.5251	-0.29	-0.38	0.85	2005, 2007, 2009, 2011
+ARHGAP21	ENST00000396432.2	Rho GTPase activating protein 21 	10	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0371	0.2323	0.8680	-0.29	-0.29	0.44	2005, 2007, 2009, 2011
+MCM3AP	ENST00000397708.1	minichromosome maintenance complex component 3 associated protein 	240	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0273	0.1800	0.7808	-0.29	-0.29	0.33	NULL
+CDKN1B	ENST00000228872.4	cyclin-dependent kinase inhibitor 1B (p27, Kip1) 	587	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0328	0.2089	0.8122	-0.29	-0.29	< 0.1	2005, 2007, 2011
+GPCPD1	ENST00000379019.4	glycerophosphocholine phosphodiesterase GDE1 homolog (S. cerevisiae) 	155	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0413	0.2697	1.1492	-0.29	-0.36	0.89	2007, 2009, 2011
+TGIF2	ENST00000373874.2	TGFB-induced factor homeobox 2 	192	2	1	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0616	0.3844	1.4365	-0.29	-0.32	0.69	2003, 2005, 2007, 2009, 2011
+TAF1D	ENST00000448108.2	TATA box binding protein (TBP)-associated factor, RNA polymerase I, D, 41kDa 	132	1	0	1	0	1	1	0	0	2	hsa-miR-148a-3p	0.0557	0.3502	1.3649	-0.29	-0.39	0.92	NULL
+ZNF217	ENST00000371471.2	zinc finger protein 217 	668	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0281	0.1799	0.7005	-0.28	-0.28	0.46	2005, 2007, 2009, 2011
+HLF	ENST00000226067.5	hepatic leukemia factor 	15	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0358	0.2351	1.0260	-0.28	-0.30	0.74	2009, 2011
+ZNRF1	ENST00000335325.4	zinc and ring finger 1, E3 ubiquitin protein ligase 	519	1	1	0	0	0	0	0	0	3	hsa-miR-148a-3p	0.0540	0.3060	0.8905	-0.28	-0.31	< 0.1	2005, 2007, 2009, 2011
+NAA15	ENST00000296543.5	N(alpha)-acetyltransferase 15, NatA auxiliary subunit 	546	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0775	0.4299	1.3596	-0.28	-0.28	0.59	2005, 2007, 2009, 2011
+VSNL1	ENST00000406397.1	visinin-like 1 	89	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0505	0.2848	0.7858	-0.28	-0.28	0.68	2005, 2007
+KPNA4	ENST00000334256.4	karyopherin alpha 4 (importin alpha 3) 	111	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0327	0.2054	0.7571	-0.28	-0.28	0.85	2009, 2011
+LRP4	ENST00000378623.1	low density lipoprotein receptor-related protein 4 	152	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0583	0.3314	1.0205	-0.28	-0.28	0.80	2005, 2007, 2009, 2011
+DLL4	ENST00000249749.5	delta-like 4 (Drosophila) 	605	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0278	0.1781	0.6874	-0.28	-0.28	0.76	2009, 2011
+ADAMTS18	ENST00000282849.5	ADAM metallopeptidase with thrombospondin type 1 motif, 18 	7	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0303	0.1940	0.7644	-0.28	-0.28	0.72	2005, 2007, 2009, 2011
+MTSS1L	ENST00000338779.6	metastasis suppressor 1-like 	2982	1	0	1	0	0	0	0	0	0	hsa-miR-152-3p	0.0966	0.4465	0.9262	-0.28	-0.28	0.88	2007, 2009, 2011
+DLG2	ENST00000398309.2	discs, large homolog 2 (Drosophila) 	15	1	1	0	0	1	0	1	0	0	hsa-miR-152-3p	0.0964	0.5683	2.0566	-0.28	-0.28	< 0.1	2007, 2009, 2011
+CLVS2	ENST00000275162.5	clavesin 2 	19	1	0	1	0	1	0	1	0	2	hsa-miR-148a-3p	0.0629	0.3848	1.4529	-0.28	-0.30	0.51	NULL
+PSEN1	ENST00000344094.3	presenilin 1 	1340	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0503	0.2952	0.9538	-0.28	-0.28	0.62	2009, 2011
+PCYT1B	ENST00000379145.1	phosphate cytidylyltransferase 1, choline, beta 	5	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1043	0.4886	1.1427	-0.28	-0.28	0.58	2009, 2011
+PRKAG2	ENST00000287878.4	protein kinase, AMP-activated, gamma 2 non-catalytic subunit 	273	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0307	0.1900	0.6435	-0.28	-0.28	0.34	2005, 2007, 2009, 2011
+ELAVL2	ENST00000380110.4	ELAV like neuron-specific RNA binding protein 2 	78	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0772	0.3719	0.7692	-0.27	-0.30	0.85	2007, 2009, 2011
+CDK14	ENST00000380050.3	cyclin-dependent kinase 14 	226	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0489	0.2990	1.0924	-0.27	-0.28	< 0.1	NULL
+JARID2	ENST00000341776.2	jumonji, AT rich interactive domain 2 	199	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1225	0.5390	1.1918	-0.27	-0.27	0.84	2009, 2011
+CALR	ENST00000316448.5	calreticulin 	17017	1	0	0	1	0	0	0	0	0	hsa-miR-152-3p	0.0232	0.1517	0.6185	-0.27	-0.27	0.81	2005, 2007
+RASSF8	ENST00000541490.1	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8 	1290	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1208	0.5078	0.9238	-0.27	-0.27	0.89	2011
+PITPNM2	ENST00000280562.5	phosphatidylinositol transfer protein, membrane-associated 2 	66	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.1054	0.5273	1.4876	-0.27	-0.27	0.86	2009, 2011
+SFMBT1	ENST00000394752.3	Scm-like with four mbt domains 1 	116	2	0	1	1	0	0	0	0	1	hsa-miR-148a-3p	0.0337	0.2085	0.7234	-0.27	-0.32	0.80	2011
+ERLIN1	ENST00000421367.2	ER lipid raft associated 1 	86	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0337	0.2083	0.7258	-0.27	-0.27	0.67	2007, 2009, 2011
+KCNQ4	ENST00000347132.5	potassium voltage-gated channel, KQT-like subfamily, member 4 	46	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0394	0.2557	1.0158	-0.27	-0.27	0.42	2011
+ROBO2	ENST00000461745.1	roundabout, axon guidance receptor, homolog 2 (Drosophila) 	22	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0393	0.2378	0.7895	-0.27	-0.27	0.86	2007, 2009, 2011
+FLJ00418	ENST00000597002.1		5	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0120	0.0828	0.4067	-0.27	-0.27	0.58	NULL
+CEP55	ENST00000371485.3	centrosomal protein 55kDa 	92	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0215	0.1384	0.5348	-0.27	-0.30	0.27	2009
+TMEM9B	ENST00000309134.5	TMEM9 domain family, member B 	195	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0394	0.1966	0.4427	-0.27	-0.59	0.42	2007, 2009, 2011
+MMS19	ENST00000327277.7	MMS19 nucleotide excision repair homolog (S. cerevisiae) 	1062	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0424	0.2652	1.0207	-0.27	-0.29	< 0.1	NULL
+ARPP19	ENST00000566423.1	cAMP-regulated phosphoprotein, 19kDa 	1316	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0318	0.1963	0.6617	-0.27	-0.27	0.90	2005, 2007, 2009
+TAF4B	ENST00000269142.5	TAF4b RNA polymerase II, TATA box binding protein (TBP)-associated factor, 105kDa 	52	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0260	0.1649	0.5933	-0.27	-0.27	0.63	2009, 2011
+FAM21B	ENST00000358474.5	family with sequence similarity 21, member B 	0	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0574	0.3253	0.9813	-0.27	-0.27	0.62	2011
+GPM6A	ENST00000280187.7	glycoprotein M6A 	335	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0325	0.1991	0.6475	-0.27	-0.27	< 0.1	2005, 2007
+GMFB	ENST00000554908.1	glia maturation factor, beta 	15	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0447	0.2562	0.8576	-0.27	-0.43	0.84	2005, 2007, 2009, 2011
+SH2B3	ENST00000341259.2	SH2B adaptor protein 3 	89	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0565	0.3245	1.0175	-0.27	-0.27	0.77	2009, 2011
+FAM21D	ENST00000311663.5	family with sequence similarity 21, member D 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0326	0.2088	0.8326	-0.27	-0.27	0.27	NULL
+SERBP1	ENST00000370994.4	SERPINE1 mRNA binding protein 1 	926	2	1	1	0	0	0	0	0	1	hsa-miR-152-3p	0.1547	0.7785	1.9024	-0.27	-0.29	0.74	2009, 2011
+ABCA1	ENST00000374736.3	ATP-binding cassette, sub-family A (ABC1), member 1 	184	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0641	0.3633	1.1759	-0.26	-0.28	0.88	2005, 2007, 2009, 2011
+STXBP5	ENST00000367481.3	syntaxin binding protein 5 (tomosyn) 	555	1	0	0	1	1	0	1	0	0	hsa-miR-152-3p	0.0531	0.3538	1.6255	-0.26	-0.45	0.60	NULL
+LTBP1	ENST00000404525.1	latent transforming growth factor beta binding protein 1 	5324	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0500	0.2927	0.9389	-0.26	-0.26	0.63	2005, 2007, 2009, 2011
+SKIDA1	ENST00000449193.2	SKI/DACH domain containing 1 	18	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0410	0.2593	1.0787	-0.26	-0.42	0.67	2005, 2007, 2009, 2011
+ARHGEF12	ENST00000397843.2	Rho guanine nucleotide exchange factor (GEF) 12 	815	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1418	0.5657	1.0924	-0.26	-0.27	0.89	2005, 2007, 2009, 2011
+TET2	ENST00000545826.1	tet methylcytosine dioxygenase 2 	558	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1612	0.6389	1.3673	-0.26	-0.26	0.84	2011
+DNAJB12	ENST00000338820.3	DnaJ (Hsp40) homolog, subfamily B, member 12 	1458	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0558	0.3050	0.7790	-0.26	-0.26	0.82	2009, 2011
+PIK3CA	ENST00000263967.3	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha 	112	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0417	0.2511	0.8362	-0.26	-0.26	0.52	NULL
+ZADH2	ENST00000322342.3	zinc binding alcohol dehydrogenase domain containing 2 	207	1	1	0	0	2	0	1	1	0	hsa-miR-148a-3p	0.0778	0.4133	1.2594	-0.26	-0.44	0.90	2005, 2007, 2009, 2011
+PPARD	ENST00000448077.2	peroxisome proliferator-activated receptor delta 	239	1	0	0	1	1	0	1	0	1	hsa-miR-152-3p	0.0598	0.3497	1.1730	-0.26	-0.26	0.68	2009, 2011
+C12orf79	ENST00000549802.1	chromosome 12 open reading frame 79 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0247	0.1627	0.6908	-0.26	-0.26	0.46	NULL
+NHS	ENST00000380060.3	Nance-Horan syndrome (congenital cataracts and dental anomalies) 	72	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1494	0.5737	0.9921	-0.26	-0.26	0.86	2005, 2007, 2009, 2011
+MSI2	ENST00000284073.2	musashi RNA-binding protein 2 	283	1	0	1	0	0	0	0	0	2	hsa-miR-152-3p	0.0592	0.3520	1.2234	-0.26	-0.34	0.66	NULL
+PAN3	ENST00000282391.5	PAN3 poly(A) specific ribonuclease subunit homolog (S. cerevisiae) 	361	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0408	0.2636	1.1057	-0.26	-0.26	0.57	NULL
+FBXO33	ENST00000298097.7	F-box protein 33 	306	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0311	0.2131	1.0500	-0.26	-0.27	0.35	2005, 2007, 2011
+SMAD5	ENST00000545279.1	SMAD family member 5 	225	1	0	1	0	2	0	2	0	0	hsa-miR-152-3p	0.0687	0.4212	1.4671	-0.26	-0.34	0.42	2011
+CDK8	ENST00000536792.1	cyclin-dependent kinase 8 	280	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0273	0.1713	0.5986	-0.25	-0.26	0.56	2009, 2011
+FAM21A	ENST00000399339.2	family with sequence similarity 21, member A 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0521	0.3030	0.9602	-0.25	-0.25	0.53	2011
+SPIRE1	ENST00000409402.4	spire-type actin nucleation factor 1 	103	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0668	0.3681	1.1152	-0.25	-0.27	0.51	2009, 2011
+AC068987.1	ENST00000599343.1	HCG1997999; cDNA FLJ33996 fis, clone DFNES2008881  	44	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0203	0.1335	0.5567	-0.25	-0.25	0.59	NULL
+SIX4	ENST00000216513.4	SIX homeobox 4 	94	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0388	0.2664	1.3638	-0.25	-0.30	0.64	2007, 2009, 2011
+SLC7A5	ENST00000565644.1	solute carrier family 7 (amino acid transporter light chain, L system), member 5 	155	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0775	0.4060	1.1214	-0.25	-0.26	0.29	2009, 2011
+TCF4	ENST00000354452.3	transcription factor 4 	394	1	0	0	1	2	0	2	0	0	hsa-miR-148a-3p	0.0471	0.2975	1.1850	-0.25	-0.38	0.55	2011
+MARCH2	ENST00000602117.1	membrane-associated ring finger (C3HC4) 2, E3 ubiquitin protein ligase 	909	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0176	0.1167	0.4939	-0.25	-0.25	0.31	2007
+DUSP16	ENST00000298573.4	dual specificity phosphatase 16 	444	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0261	0.1654	0.5942	-0.25	-0.25	< 0.1	NULL
+KIAA1324L	ENST00000450689.2	KIAA1324-like 	181	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0374	0.2408	0.9458	-0.25	-0.33	0.59	2007, 2009, 2011
+TSPAN18	ENST00000340160.3	tetraspanin 18 	332	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0479	0.2562	0.6336	-0.25	-0.33	0.82	2011
+PPARGC1A	ENST00000264867.2	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha 	19	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0425	0.2576	0.8816	-0.25	-0.25	0.67	2005, 2007, 2009, 2011
+ATXN1	ENST00000244769.4	ataxin 1 	106	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1452	0.5673	1.0424	-0.25	-0.25	0.77	2005, 2007, 2009, 2011
+STT3A	ENST00000392708.4	STT3A, subunit of the oligosaccharyltransferase complex (catalytic) 	3595	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0466	0.2660	0.7394	-0.25	-0.25	0.86	2007, 2011
+FBN3	ENST00000600128.1	fibrillin 3 	10	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0604	0.3424	1.0666	-0.25	-0.25	0.51	2009, 2011
+MUM1L1	ENST00000357175.2	melanoma associated antigen (mutated) 1-like 1 	50	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0348	0.2122	0.6956	-0.25	-0.25	0.29	2005, 2007, 2011
+STARD13	ENST00000336934.5	StAR-related lipid transfer (START) domain containing 13 	314	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1732	0.5213	0.8340	-0.25	-0.36	0.73	2005, 2007, 2009, 2011
+PPAP2B	ENST00000371250.3	phosphatidic acid phosphatase type 2B 	81	1	0	0	1	2	1	0	1	0	hsa-miR-148a-3p	0.0647	0.3391	0.8022	-0.25	-0.41	0.86	2009, 2011
+KIAA1549	ENST00000440172.1	KIAA1549 	508	1	0	1	0	1	0	0	1	1	hsa-miR-148a-3p	0.0462	0.3168	1.6649	-0.25	-0.28	0.69	2009, 2011
+CERS6	ENST00000305747.6	ceramide synthase 6 	1932	1	0	1	0	2	0	1	1	0	hsa-miR-148b-3p	0.0349	0.2444	1.3315	-0.25	-0.27	0.82	2009, 2011
+TGFB2	ENST00000366930.4	transforming growth factor, beta 2 	157	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0873	0.3243	0.5889	-0.24	-0.51	0.89	2011
+CNR1	ENST00000362094.5	cannabinoid receptor 1 (brain) 	40	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0213	0.1493	0.8317	-0.24	-0.32	0.36	2009, 2011
+GAS1	ENST00000298743.7	growth arrest-specific 1 	2904	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0320	0.1962	0.6423	-0.24	-0.24	0.64	2009, 2011
+BACH2	ENST00000257749.4	BTB and CNC homology 1, basic leucine zipper transcription factor 2 	74	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0853	0.4468	1.2751	-0.24	-0.24	0.87	2005, 2007, 2009, 2011
+KIT	ENST00000288135.5	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog 	329	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0496	0.3181	1.3211	-0.24	-0.24	0.79	2011
+ATXN7L1	ENST00000419735.3	ataxin 7-like 1 	67	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0845	0.4368	1.1939	-0.24	-0.24	0.84	2009, 2011
+AC140061.12	ENST00000598429.1	Uncharacterized protein  	11	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0272	0.1725	0.6358	-0.24	-0.24	0.67	NULL
+AQP11	ENST00000313578.3	aquaporin 11 	75	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0145	0.0987	0.4578	-0.24	-0.24	0.34	2011
+SNX2	ENST00000379516.2	sorting nexin 2 	397	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0290	0.1752	0.5712	-0.24	-0.32	0.89	NULL
+OSTF1	ENST00000346234.6	osteoclast stimulating factor 1 	107	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0161	0.1083	0.4889	-0.24	-0.26	0.31	NULL
+LYRM2	ENST00000520318.1	LYR motif containing 2 	305	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0298	0.1917	0.8290	-0.24	-0.38	< 0.1	NULL
+ZNF784	ENST00000591479.1	zinc finger protein 784 	19	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0194	0.1277	0.5195	-0.24	-0.24	0.30	2007, 2009, 2011
+LNPEP	ENST00000231368.5	leucyl/cystinyl aminopeptidase 	28	1	0	0	1	1	0	1	0	0	hsa-miR-148a-3p	0.0281	0.1848	0.7876	-0.24	-0.42	0.80	NULL
+BBX	ENST00000415149.2	bobby sox homolog (Drosophila) 	141	1	0	0	1	1	0	1	0	2	hsa-miR-148a-3p	0.0365	0.2557	1.4042	-0.24	-0.27	0.59	NULL
+MBOAT2	ENST00000305997.3	membrane bound O-acyltransferase domain containing 2 	1145	1	0	0	1	1	0	1	0	2	hsa-miR-152-3p	0.0459	0.2874	1.0755	-0.24	-0.30	0.80	2009, 2011
+EFNB2	ENST00000245323.4	ephrin-B2 	25	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0258	0.1647	0.6144	-0.24	-0.24	0.58	2005, 2007, 2009, 2011
+CAMSAP2	ENST00000358823.2	calmodulin regulated spectrin-associated protein family, member 2 	235	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0566	0.3115	0.8289	-0.24	-0.24	0.49	NULL
+DHRS13	ENST00000378895.4	dehydrogenase/reductase (SDR family) member 13 	596	1	0	1	0	0	0	0	0	0	hsa-miR-148b-3p	0.0239	0.1544	0.5949	-0.24	-0.24	0.34	2011
+PIK3C2A	ENST00000265970.7	phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2 alpha 	280	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0824	0.3891	0.9431	-0.24	-0.32	0.86	2009, 2011
+E2F3	ENST00000346618.3	E2F transcription factor 3 	91	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0434	0.2525	0.7393	-0.24	-0.24	0.83	2007, 2009, 2011
+BRPF1	ENST00000383829.2	bromodomain and PHD finger containing, 1 	351	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0791	0.3965	0.9277	-0.24	-0.24	0.73	2005, 2007, 2009, 2011
+RNF44	ENST00000274811.4	ring finger protein 44 	1623	1	0	1	0	1	0	0	1	1	hsa-miR-148a-3p	0.0307	0.2026	0.8897	-0.24	-0.24	0.70	2005, 2007, 2009, 2011
+FAM21C	ENST00000336378.4	family with sequence similarity 21, member C 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0427	0.2615	0.9364	-0.24	-0.24	0.53	2011
+C16orf52	ENST00000542527.2	chromosome 16 open reading frame 52 	102	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0497	0.3057	1.1182	-0.24	-0.26	0.60	2011
+TBC1D8	ENST00000376840.4	TBC1 domain family, member 8 (with GRAM domain) 	47	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0172	0.1146	0.5112	-0.23	-0.30	0.32	2011
+MTMR12	ENST00000280285.5	myotubularin related protein 12 	156	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1032	0.3849	0.7017	-0.23	-0.40	0.86	2007, 2009, 2011
+LRFN1	ENST00000248668.4	leucine rich repeat and fibronectin type III domain containing 1 	82	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0334	0.2106	0.7870	-0.23	-0.23	0.69	2009, 2011
+ZFPM2	ENST00000407775.2	zinc finger protein, FOG family member 2 	595	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0278	0.1845	0.8312	-0.23	-0.23	0.59	2005, 2007, 2009, 2011
+HMGB3	ENST00000325307.7	high mobility group box 3 	295	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0271	0.1728	0.6525	-0.23	-0.23	0.87	2005, 2007, 2009, 2011
+EGR3	ENST00000519492.1	early growth response 3 	21	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0171	0.1133	0.4901	-0.23	-0.32	0.51	2009, 2011
+TERF2	ENST00000254942.3	telomeric repeat binding factor 2 	709	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0246	0.1574	0.5909	-0.23	-0.23	0.71	NULL
+SOX5	ENST00000546136.1	SRY (sex determining region Y)-box 5 	43	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0384	0.2350	0.8098	-0.23	-0.23	0.65	2005, 2007, 2009, 2011
+SYT1	ENST00000457153.2	synaptotagmin I 	13	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0419	0.2666	1.0589	-0.23	-0.23	0.63	2005, 2007, 2009, 2011
+DYRK1A	ENST00000339659.4	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A 	448	1	1	0	0	0	0	0	0	2	hsa-miR-148b-3p	0.1004	0.5136	1.5006	-0.23	-0.24	0.86	2005, 2007, 2009, 2011
+PVRL1	ENST00000264025.3	poliovirus receptor-related 1 (herpesvirus entry mediator C) 	50	1	0	1	0	2	0	0	2	0	hsa-miR-152-3p	0.0475	0.3148	1.3573	-0.23	-0.23	0.66	2007
+PTPRM	ENST00000332175.8	protein tyrosine phosphatase, receptor type, M 	553	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0202	0.1433	0.8409	-0.23	-0.23	0.60	2005, 2007, 2009, 2011
+TBPL1	ENST00000237264.4	TBP-like 1 	69	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0379	0.2283	0.7920	-0.23	-0.29	< 0.1	NULL
+TFDP2	ENST00000499676.2	transcription factor Dp-2 (E2F dimerization partner 2) 	128	1	0	1	0	3	0	1	2	1	hsa-miR-148a-3p	0.0321	0.1915	0.6470	-0.23	-0.86	0.94	2011
+ZBTB8A	ENST00000316459.4	zinc finger and BTB domain containing 8A 	287	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0319	0.2106	0.9465	-0.23	-0.23	0.76	2007, 2009, 2011
+LCOR	ENST00000371103.3	ligand dependent nuclear receptor corepressor 	94	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0422	0.2935	1.5564	-0.23	-0.23	0.64	2011
+AP1G1	ENST00000299980.4	adaptor-related protein complex 1, gamma 1 subunit 	436	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0332	0.2117	0.8399	-0.23	-0.23	0.56	2005, 2007, 2011
+PAQR9	ENST00000340634.3	progestin and adipoQ receptor family member IX 	233	1	0	0	1	0	0	0	0	0	hsa-miR-148b-3p	0.0236	0.1551	0.6531	-0.23	-0.23	0.49	NULL
+MLLT6	ENST00000325718.7	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 6 	24	1	0	1	0	1	0	0	1	1	hsa-miR-148a-3p	0.0398	0.2610	1.1591	-0.22	-0.29	0.92	2011
+NAT8L	ENST00000331662.3	N-acetyltransferase 8-like (GCN5-related, putative) 	220	1	1	0	0	1	0	1	0	4	hsa-miR-148b-3p	0.0562	0.3474	1.3790	-0.22	-0.24	0.83	2011
+HMGA2	ENST00000403681.2	high mobility group AT-hook 2 	8021	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0231	0.1519	0.6407	-0.22	-0.22	0.48	2009, 2011
+MLEC	ENST00000228506.3	malectin 	12084	1	0	1	0	0	0	0	0	3	hsa-miR-152-3p	0.0546	0.3232	1.1202	-0.22	-0.23	0.46	2005, 2007, 2009, 2011
+PIK3R3	ENST00000262741.5	phosphoinositide-3-kinase, regulatory subunit 3 (gamma) 	335	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0510	0.2871	0.8320	-0.22	-0.24	0.59	2005, 2007, 2009, 2011
+SLC24A4	ENST00000393265.2	solute carrier family 24 (sodium/potassium/calcium exchanger), member 4 	5	1	0	1	0	2	0	1	1	0	hsa-miR-148b-3p	0.0238	0.1646	0.8330	-0.22	-0.41	0.93	2011
+ZCCHC2	ENST00000269499.5	zinc finger, CCHC domain containing 2 	13	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0795	0.4137	1.1116	-0.22	-0.22	0.86	2005, 2007, 2009, 2011
+MYBL1	ENST00000522677.3	v-myb avian myeloblastosis viral oncogene homolog-like 1 	53	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0472	0.3011	1.2628	-0.22	-0.22	0.65	2007, 2009, 2011
+COL6A3	ENST00000295550.4	collagen, type VI, alpha 3 	11346	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0296	0.1954	0.8675	-0.22	-0.22	0.30	2011
+RALY	ENST00000375114.3	RALY heterogeneous nuclear ribonucleoprotein 	1489	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0218	0.1427	0.5807	-0.22	-0.22	0.27	NULL
+AMMECR1	ENST00000262844.5	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1 	5	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0446	0.2737	1.0048	-0.22	-0.22	0.65	2009, 2011
+SULF1	ENST00000458141.2	sulfatase 1 	11	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0277	0.1789	0.7140	-0.22	-0.22	0.62	2005, 2007, 2009, 2011
+ZDHHC23	ENST00000330212.3	zinc finger, DHHC-type containing 23 	10	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0274	0.1700	0.6114	-0.22	-0.30	0.55	2011
+PDK4	ENST00000005178.5	pyruvate dehydrogenase kinase, isozyme 4 	5549	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0579	0.3150	0.8074	-0.22	-0.22	0.24	2005, 2007, 2009, 2011
+KIAA0226	ENST00000273582.5	KIAA0226 	89	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1235	0.4701	0.9018	-0.22	-0.30	0.86	2009, 2011
+ADAMTS15	ENST00000299164.2	ADAM metallopeptidase with thrombospondin type 1 motif, 15 	18	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1019	0.4865	1.1966	-0.22	-0.22	0.86	2011
+TUBB6	ENST00000591208.1	tubulin, beta 6 class V 	5820	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0162	0.1139	0.6230	-0.22	-0.22	< 0.1	NULL
+TIGD5	ENST00000504548.2	tigger transposable element derived 5 	823	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0258	0.1649	0.6226	-0.22	-0.22	0.78	2009, 2011
+ETV3	ENST00000368192.4	ets variant 3 	37	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0358	0.2407	1.1009	-0.22	-0.22	0.54	NULL
+CDK6	ENST00000265734.4	cyclin-dependent kinase 6 	1116	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.1198	0.5167	1.0981	-0.22	-0.23	0.66	2009, 2011
+USP4	ENST00000351842.4	ubiquitin specific peptidase 4 (proto-oncogene) 	253	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0374	0.2136	0.6402	-0.22	-0.32	< 0.1	2009, 2011
+ANKRD13A	ENST00000261739.4	ankyrin repeat domain 13A 	1644	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0624	0.3379	0.9013	-0.22	-0.22	0.68	2009, 2011
+STRADB	ENST00000392249.2	STE20-related kinase adaptor beta 	12	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0176	0.1172	0.5027	-0.21	-0.21	0.36	2007, 2009, 2011
+LIN28B	ENST00000345080.4	lin-28 homolog B (C. elegans) 	118	1	1	0	0	0	0	0	0	3	hsa-miR-152-3p	0.0599	0.3751	1.4989	-0.21	-0.21	< 0.1	2009, 2011
+NCEH1	ENST00000475381.1	neutral cholesterol ester hydrolase 1 	1779	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0355	0.2243	0.8692	-0.21	-0.22	0.42	2009, 2011
+LEPROTL1	ENST00000321250.8	leptin receptor overlapping transcript-like 1 	1242	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0595	0.2405	0.4963	-0.21	-0.66	0.94	2009, 2011
+MOSPD1	ENST00000370783.3	motile sperm domain containing 1 	83	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0234	0.1445	0.4957	-0.21	-0.31	0.46	2005, 2007, 2009, 2011
+ARFGEF1	ENST00000262215.3	ADP-ribosylation factor guanine nucleotide-exchange factor 1 (brefeldin A-inhibited) 	70	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0344	0.2089	0.7505	-0.21	-0.31	0.41	2005, 2007
+RNPEPL1	ENST00000270357.4	arginyl aminopeptidase (aminopeptidase B)-like 1 	239	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0286	0.1805	0.6575	-0.21	-0.21	0.74	2011
+AP4E1	ENST00000261842.5	adaptor-related protein complex 4, epsilon 1 subunit 	57	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.0981	0.4834	1.2258	-0.21	-0.42	0.80	2007, 2009, 2011
+HSPA4L	ENST00000296464.4	heat shock 70kDa protein 4-like 	348	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0183	0.1260	0.6370	-0.21	-0.21	0.85	2005, 2007, 2009, 2011
+MGAT5	ENST00000409645.1	mannosyl (alpha-1,6-)-glycoprotein beta-1,6-N-acetyl-glucosaminyltransferase 	1627	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0526	0.3268	1.3188	-0.21	-0.22	0.49	NULL
+CLOCK	ENST00000309964.4	clock circadian regulator 	86	1	0	1	0	1	0	0	1	2	hsa-miR-148a-3p	0.0490	0.3261	1.4991	-0.21	-0.21	0.83	2005, 2007, 2009, 2011
+CTTNBP2NL	ENST00000271277.6	CTTNBP2 N-terminal like 	182	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0880	0.3569	0.6466	-0.21	-0.33	0.89	2011
+FNBP1L	ENST00000370253.2	formin binding protein 1-like 	219	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0339	0.2166	0.8635	-0.21	-0.21	0.49	2007
+GJD2	ENST00000290374.4	gap junction protein, delta 2, 36kDa 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0401	0.2454	0.8625	-0.21	-0.21	0.49	NULL
+DEDD	ENST00000368006.3	death effector domain containing 	239	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0359	0.2052	0.6710	-0.21	-0.40	0.50	2005, 2007, 2009, 2011
+ATP2A2	ENST00000395494.2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 	2042	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.1178	0.5636	1.4999	-0.21	-0.21	0.44	2005, 2007, 2011
+BCL2L2	ENST00000250405.5	BCL2-like 2 	1380	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0205	0.1393	0.6725	-0.21	-0.21	0.49	2005, 2007, 2011
+PRDM15	ENST00000422911.1	PR domain containing 15 	328	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0474	0.2982	1.1666	-0.21	-0.21	0.71	2007, 2009, 2011
+PDE4B	ENST00000371045.5	phosphodiesterase 4B, cAMP-specific 	127	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0316	0.2114	0.9635	-0.21	-0.21	0.37	2009
+TXNIP	ENST00000369317.4	thioredoxin interacting protein 	11	2	0	1	1	0	0	0	0	0	hsa-miR-148b-3p	0.0346	0.1999	0.6426	-0.21	-0.51	0.78	2011
+PDE5A	ENST00000354960.3	phosphodiesterase 5A, cGMP-specific 	69	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0639	0.3700	1.2570	-0.21	-0.21	0.34	2009, 2011
+BAZ2B	ENST00000392782.1	bromodomain adjacent to zinc finger domain, 2B 	25	1	0	0	1	0	0	0	0	2	hsa-miR-148a-3p	0.0924	0.4418	0.9884	-0.20	-0.20	0.86	2011
+VASH2	ENST00000366968.4	vasohibin 2 	70	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0293	0.1895	0.7820	-0.20	-0.21	0.58	2009, 2011
+EGFR	ENST00000275493.2	epidermal growth factor receptor 	632	1	0	0	1	0	0	0	0	3	hsa-miR-148a-3p	0.0537	0.3307	1.3460	-0.20	-0.24	0.56	NULL
+C5orf24	ENST00000394976.3	chromosome 5 open reading frame 24 	2668	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0329	0.2212	1.0458	-0.20	-0.21	0.40	NULL
+CAPRIN1	ENST00000341394.4	cell cycle associated protein 1 	650	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0147	0.1036	0.5794	-0.20	-0.23	0.48	NULL
+FAM178A	ENST00000238961.4	family with sequence similarity 178, member A 	130	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0808	0.4194	1.2848	-0.20	-0.39	0.74	2005, 2007, 2009, 2011
+TRPS1	ENST00000395715.3	trichorhinophalangeal syndrome I 	94	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0487	0.2900	0.9705	-0.20	-0.20	0.61	2005, 2007, 2009, 2011
+HIATL1	ENST00000428393.2	hippocampus abundant transcript-like 1 	767	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0315	0.1972	0.7136	-0.20	-0.20	< 0.1	NULL
+LYSMD3	ENST00000509384.1	LysM, putative peptidoglycan-binding, domain containing 3 	92	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.0207	0.1307	0.4653	-0.20	-0.59	0.61	2009, 2011
+KPNA1	ENST00000344337.6	karyopherin alpha 1 (importin alpha 5) 	1030	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0486	0.2669	0.7489	-0.20	-0.27	0.81	2007, 2009, 2011
+CASZ1	ENST00000377022.3	castor zinc finger 1 	5	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0615	0.3303	0.8417	-0.20	-0.20	0.77	2007, 2009, 2011
+EML6	ENST00000356458.6	echinoderm microtubule associated protein like 6 	39	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0240	0.1629	0.7853	-0.20	-0.20	0.35	2011
+KDM2B	ENST00000536437.1	lysine (K)-specific demethylase 2B 	647	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0180	0.1216	0.5667	-0.20	-0.20	< 0.1	2005, 2007
+UBE4B	ENST00000343090.6	ubiquitination factor E4B 	350	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0217	0.1400	0.5303	-0.20	-0.21	0.43	2011
+WAPAL	ENST00000298767.5	wings apart-like homolog (Drosophila) 	185	1	0	0	1	0	0	0	0	0	hsa-miR-152-3p	0.0352	0.2308	0.9635	-0.20	-0.24	0.49	2007
+ULK3	ENST00000440863.2	unc-51 like kinase 3 	22	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0312	0.1989	0.7647	-0.20	-0.20	0.29	2011
+RFX7	ENST00000423270.1	regulatory factor X, 7 	1049	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0358	0.2440	1.2182	-0.20	-0.20	0.62	2007
+FLOT2	ENST00000394906.2	flotillin 2 	37	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0140	0.0971	0.5008	-0.20	-0.20	0.57	2009, 2011
+DNAJC16	ENST00000375847.3	DnaJ (Hsp40) homolog, subfamily C, member 16 	366	1	0	0	1	0	0	0	0	0	hsa-miR-148b-3p	0.0323	0.2150	1.0068	-0.20	-0.23	0.74	2009, 2011
+TMEM127	ENST00000258439.3	transmembrane protein 127 	296	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0300	0.1966	0.8628	-0.20	-0.22	0.65	2011
+POU4F2	ENST00000281321.3	POU class 4 homeobox 2 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0263	0.1698	0.6684	-0.20	-0.20	0.52	2005, 2007, 2011
+KMT2A	ENST00000534358.1	lysine (K)-specific methyltransferase 2A 	1092	2	1	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.1941	0.9231	2.5029	-0.20	-0.20	0.88	2005, 2007, 2009, 2011
+ISM1	ENST00000262487.4	isthmin 1, angiogenesis inhibitor 	9	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0276	0.1785	0.7172	-0.20	-0.20	0.39	2009, 2011
+CNOT6	ENST00000393356.1	CCR4-NOT transcription complex, subunit 6 	300	1	0	1	0	0	0	0	0	3	hsa-miR-148b-3p	0.0370	0.2531	1.3001	-0.20	-0.32	0.51	2005, 2007, 2009, 2011
+MRPS10	ENST00000053468.3	mitochondrial ribosomal protein S10 	63	1	1	0	0	1	0	1	0	1	hsa-miR-148a-3p	0.0173	0.1153	0.5223	-0.20	-0.53	0.26	2011
+CXorf23	ENST00000379687.3	chromosome X open reading frame 23 	30	1	1	0	0	3	0	1	2	2	hsa-miR-148a-3p	0.0649	0.3132	0.8001	-0.19	-0.59	0.90	2009, 2011
+ZBTB7A	ENST00000322357.4	zinc finger and BTB domain containing 7A 	37	1	0	0	1	1	1	0	0	0	hsa-miR-148a-3p	0.0652	0.4044	1.4596	-0.19	-0.19	0.67	2007, 2009, 2011
+DLL1	ENST00000366756.3	delta-like 1 (Drosophila) 	85	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0139	0.0979	0.5413	-0.19	-0.19	0.27	NULL
+C20orf112	ENST00000359676.5	chromosome 20 open reading frame 112 	148	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0541	0.2378	0.5544	-0.19	-0.43	0.89	2011
+RAI14	ENST00000265109.3	retinoic acid induced 14 	2228	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0235	0.1566	0.6917	-0.19	-0.22	0.47	2011
+EPB41L1	ENST00000441639.1	erythrocyte membrane protein band 4.1-like 1 	369	1	0	1	0	1	0	1	0	2	hsa-miR-152-3p	0.0533	0.3260	1.1699	-0.19	-0.23	0.85	2009, 2011
+BCL2L11	ENST00000393256.3	BCL2-like 11 (apoptosis facilitator) 	105	2	1	0	1	1	0	1	0	0	hsa-miR-148b-3p	0.0624	0.2753	0.7456	-0.19	-0.73	0.98	2007, 2009, 2011
+TGFBRAP1	ENST00000393359.2	transforming growth factor, beta receptor associated protein 1 	435	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0443	0.2989	1.4193	-0.19	-0.19	0.69	NULL
+TSPYL1	ENST00000368608.3	TSPY-like 1 	2195	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.0282	0.1768	0.6176	-0.19	-0.33	0.31	2011
+NUP43	ENST00000367403.3	nucleoporin 43kDa 	113	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0117	0.0827	0.4638	-0.19	-0.19	< 0.1	NULL
+RUNX1T1	ENST00000523629.1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related) 	9	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0305	0.2066	1.0027	-0.18	-0.18	0.65	2011
+SLC2A3	ENST00000075120.7	solute carrier family 2 (facilitated glucose transporter), member 3 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0271	0.1794	0.7853	-0.18	-0.18	0.39	2009, 2011
+IPO5	ENST00000261574.5	importin 5 	1826	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0291	0.1823	0.6524	-0.18	-0.20	0.73	2009, 2011
+MET	ENST00000397752.3	met proto-oncogene 	1155	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0524	0.3130	1.1018	-0.18	-0.18	0.77	2011
+DPYSL5	ENST00000288699.6	dihydropyrimidinase-like 5 	315	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0740	0.3593	0.8193	-0.18	-0.22	< 0.1	2011
+CCNK	ENST00000389879.5	cyclin K 	1777	1	0	1	0	1	0	0	1	0	hsa-miR-152-3p	0.0197	0.1292	0.5278	-0.18	-0.29	0.40	NULL
+FIGN	ENST00000333129.3	fidgetin 	10	1	0	1	0	0	0	0	0	3	hsa-miR-148a-3p	0.0384	0.2461	1.1310	-0.18	-0.33	0.56	NULL
+ARID3A	ENST00000263620.3	AT rich interactive domain 3A (BRIGHT-like) 	320	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0302	0.1899	0.7185	-0.18	-0.22	0.68	2009, 2011
+MAP1B	ENST00000296755.7	microtubule-associated protein 1B 	259	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0448	0.2913	1.3275	-0.18	-0.19	0.41	2009, 2011
+DGCR8	ENST00000383024.2	DGCR8 microprocessor complex subunit 	1018	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0258	0.1653	0.6306	-0.18	-0.18	0.59	NULL
+CLCN3	ENST00000513761.1	chloride channel, voltage-sensitive 3 	1142	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0546	0.3087	0.8686	-0.18	-0.30	0.67	NULL
+RCC2	ENST00000375436.4	regulator of chromosome condensation 2 	180	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0270	0.1712	0.6204	-0.18	-0.18	0.83	2009, 2011
+RYBP	ENST00000477973.2	RING1 and YY1 binding protein 	342	1	0	1	0	0	0	0	0	3	hsa-miR-148a-3p	0.0265	0.1712	0.6866	-0.18	-0.24	0.79	2007
+TNRC6B	ENST00000335727.9	trinucleotide repeat containing 6B 	69	1	0	1	0	1	0	1	0	3	hsa-miR-148a-3p	0.0620	0.4199	2.0956	-0.18	-0.23	0.53	2007, 2009, 2011
+WHSC1	ENST00000382895.3	Wolf-Hirschhorn syndrome candidate 1 	1148	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.1486	0.6685	1.7047	-0.18	-0.18	0.90	2011
+KANSL1	ENST00000574590.1	KAT8 regulatory NSL complex subunit 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0437	0.2620	0.8784	-0.18	-0.18	0.31	2007
+AC012215.1	ENST00000437887.1	Uncharacterized protein  	31	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0194	0.1334	0.6551	-0.18	-0.26	0.71	NULL
+CDK13	ENST00000181839.4	cyclin-dependent kinase 13 	32	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0117	0.0817	0.4349	-0.18	-0.18	0.82	2005, 2007, 2011
+ADAMTS19	ENST00000274487.4	ADAM metallopeptidase with thrombospondin type 1 motif, 19 	8	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0170	0.1158	0.5651	-0.18	-0.18	0.45	2009, 2011
+DPP9	ENST00000594671.1	dipeptidyl-peptidase 9 	422	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0123	0.0863	0.4775	-0.17	-0.17	0.52	2009, 2011
+MMP19	ENST00000409200.3	matrix metallopeptidase 19 	135	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0176	0.1228	0.6407	-0.17	-0.17	< 0.1	NULL
+AJUBA	ENST00000262713.2	ajuba LIM protein 	871	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.0544	0.3114	0.9487	-0.17	-0.17	< 0.1	2005, 2007, 2011
+SOX11	ENST00000322002.3	SRY (sex determining region Y)-box 11 	1100	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0171	0.1126	0.4642	-0.17	-0.19	0.45	2005, 2007, 2009, 2011
+MYO9A	ENST00000564571.1	myosin IXA 	137	2	0	2	0	0	0	0	0	1	hsa-miR-148a-3p	0.0363	0.2385	1.0543	-0.17	-0.27	0.75	NULL
+HIPK3	ENST00000303296.4	homeodomain interacting protein kinase 3 	933	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0273	0.1856	0.8897	-0.17	-0.18	0.67	NULL
+PICALM	ENST00000532317.1	phosphatidylinositol binding clathrin assembly protein 	1173	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0196	0.1321	0.6166	-0.17	-0.17	0.35	2005, 2007
+DCP1A	ENST00000607628.1	decapping mRNA 1A 	87	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0269	0.1698	0.6309	-0.17	-0.20	0.72	2011
+IL15	ENST00000296545.7	interleukin 15 	504	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0390	0.1603	0.2841	-0.17	-0.65	0.40	NULL
+CNIH4	ENST00000465271.1	cornichon family AMPA receptor auxiliary protein 4 	1348	1	1	0	0	2	0	1	1	1	hsa-miR-148a-3p	0.0332	0.2087	0.8394	-0.17	-0.51	0.24	NULL
+PPARGC1B	ENST00000309241.5	peroxisome proliferator-activated receptor gamma, coactivator 1 beta 	12	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0447	0.2627	0.8906	-0.17	-0.21	0.91	2011
+SPIN1	ENST00000375859.3	spindlin 1 	686	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0280	0.1737	0.5863	-0.17	-0.18	0.60	2009, 2011
+NCS1	ENST00000372398.3	neuronal calcium sensor 1 	1083	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0172	0.1184	0.5977	-0.17	-0.22	0.31	2009, 2011
+PPP1R9B	ENST00000316878.6	protein phosphatase 1, regulatory subunit 9B 	120	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0760	0.3877	0.9383	-0.17	-0.17	0.60	2007, 2009, 2011
+LRP8	ENST00000306052.6	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor 	16	1	0	1	0	1	0	0	1	3	hsa-miR-148a-3p	0.0196	0.1374	0.7587	-0.16	-0.71	0.79	2005, 2007, 2011
+BAZ2A	ENST00000379441.3	bromodomain adjacent to zinc finger domain, 2A 	48	2	0	1	1	0	0	0	0	0	hsa-miR-148a-3p	0.0317	0.2092	0.9034	-0.16	-0.17	0.76	2005, 2007, 2009, 2011
+ZBTB16	ENST00000335953.4	zinc finger and BTB domain containing 16 	73	1	0	0	1	1	1	0	0	0	hsa-miR-148a-3p	0.0462	0.2732	0.9065	-0.16	-0.33	0.70	NULL
+BZRAP1	ENST00000268893.6	benzodiazapine receptor (peripheral) associated protein 1 	26	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0404	0.2407	0.7600	-0.16	-0.16	0.44	2005, 2007, 2009, 2011
+MED1	ENST00000300651.6	mediator complex subunit 1 	87	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0338	0.2265	1.0724	-0.16	-0.18	0.51	2009, 2011
+PHIP	ENST00000275034.4	pleckstrin homology domain interacting protein 	668	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0534	0.3130	1.0272	-0.16	-0.16	0.54	2011
+PATL1	ENST00000300146.9	protein associated with topoisomerase II homolog 1 (yeast) 	703	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0196	0.1330	0.6320	-0.16	-0.16	0.45	2005, 2007, 2009, 2011
+ZNF268	ENST00000542986.2	zinc finger protein 268 	156	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0398	0.2216	0.6241	-0.16	-0.24	< 0.1	NULL
+NCOA1	ENST00000405141.1	nuclear receptor coactivator 1 	200	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0290	0.1728	0.6086	-0.16	-0.31	0.52	2005, 2007, 2009, 2011
+GPR180	ENST00000376958.4	G protein-coupled receptor 180 	161	1	1	0	0	0	0	0	0	2	hsa-miR-152-3p	0.0365	0.2347	0.9686	-0.16	-0.17	< 0.1	2011
+ETV1	ENST00000430479.1	ets variant 1 	160	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0220	0.1444	0.6194	-0.16	-0.20	0.79	2009, 2011
+EXTL3	ENST00000220562.4	exostosin-like glycosyltransferase 3 	358	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0106	0.0749	0.4318	-0.16	-0.16	0.64	2009, 2011
+ANK2	ENST00000357077.4	ankyrin 2, neuronal 	133	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0480	0.3009	1.2197	-0.16	-0.16	0.49	2011
+KDM6B	ENST00000254846.5	lysine (K)-specific demethylase 6B 	8	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0374	0.2361	0.9268	-0.16	-0.16	0.51	2007, 2009, 2011
+DCUN1D3	ENST00000324344.4	DCN1, defective in cullin neddylation 1, domain containing 3 	53	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0328	0.2007	0.7362	-0.16	-0.30	0.41	NULL
+SLC5A3	ENST00000608209.1	sodium/myo-inositol cotransporter  	24	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0415	0.2721	1.2077	-0.16	-0.17	0.37	2011
+ARHGAP20	ENST00000260283.4	Rho GTPase activating protein 20 	85	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0321	0.1929	0.6537	-0.16	-0.38	0.75	2005, 2007, 2009, 2011
+BCL2L13	ENST00000418951.2	BCL2-like 13 (apoptosis facilitator) 	741	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0156	0.1113	0.6542	-0.16	-0.16	0.30	NULL
+RP11-1055B8.7	ENST00000307745.7	BAH and coiled-coil domain-containing protein 1  	247	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0309	0.1919	0.6660	-0.15	-0.15	0.88	2011
+DSC2	ENST00000251081.6	desmocollin 2 	145	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0338	0.2031	0.6375	-0.15	-0.17	< 0.1	2011
+SLC45A3	ENST00000367145.3	solute carrier family 45, member 3 	17	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0179	0.1256	0.6895	-0.15	-0.15	0.33	2011
+NOVA2	ENST00000263257.5	neuro-oncological ventral antigen 2 	7	1	1	0	0	2	0	2	0	1	hsa-miR-148a-3p	0.1029	0.4629	1.1267	-0.15	-0.22	0.82	NULL
+ARAP2	ENST00000303965.4	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2 	121	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0391	0.2652	1.2535	-0.15	-0.15	0.32	NULL
+GGA2	ENST00000309859.4	golgi-associated, gamma adaptin ear containing, ARF binding protein 2 	645	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0217	0.1365	0.4980	-0.15	-0.21	0.67	2011
+PRR5L	ENST00000527487.1	proline rich 5 like 	238	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0175	0.1196	0.6106	-0.15	-0.25	0.38	2005, 2007, 2009, 2011
+ZNF704	ENST00000327835.3	zinc finger protein 704 	124	1	0	1	0	1	0	0	1	2	hsa-miR-148a-3p	0.0340	0.2329	1.2224	-0.15	-0.30	0.56	2011
+SCN8A	ENST00000354534.6	sodium channel, voltage gated, type VIII, alpha subunit 	44	1	0	1	0	2	0	2	0	0	hsa-miR-148a-3p	0.0548	0.3530	1.4480	-0.15	-0.15	0.44	NULL
+GRIN2B	ENST00000609686.1	glutamate receptor, ionotropic, N-methyl D-aspartate 2B 	5	1	1	0	0	6	0	2	4	0	hsa-miR-148a-3p	0.1230	0.7762	3.2912	-0.14	-0.14	0.54	NULL
+GATAD2B	ENST00000368655.4	GATA zinc finger domain containing 2B 	48	1	0	1	0	1	0	1	0	2	hsa-miR-148a-3p	0.0254	0.1657	0.7436	-0.14	-0.30	0.62	2011
+RAB35	ENST00000534951.1	RAB35, member RAS oncogene family 	1051	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0106	0.0766	0.4807	-0.14	-0.14	< 0.1	2005, 2007, 2009, 2011
+SLC43A2	ENST00000301335.5	solute carrier family 43 (amino acid system L transporter), member 2 	68	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0214	0.1425	0.6180	-0.14	-0.28	0.54	NULL
+TTBK2	ENST00000267890.6	tau tubulin kinase 2 	18	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0743	0.4326	1.4631	-0.14	-0.15	0.89	NULL
+FUT9	ENST00000302103.5	fucosyltransferase 9 (alpha (1,3) fucosyltransferase) 	5	1	0	1	0	0	0	0	0	4	hsa-miR-148a-3p	0.0358	0.2509	1.3934	-0.14	-0.14	0.71	2009, 2011
+CHRNB2	ENST00000368476.3	cholinergic receptor, nicotinic, beta 2 (neuronal) 	16	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0286	0.1965	0.9775	-0.14	-0.14	0.28	2009, 2011
+UBN2	ENST00000473989.3	ubinuclein 2 	238	2	2	0	0	2	1	1	0	2	hsa-miR-148b-3p	0.1539	0.8756	2.9174	-0.14	-0.17	0.76	2009, 2011
+MOCOS	ENST00000261326.5	molybdenum cofactor sulfurase 	627	1	0	1	0	1	1	0	0	1	hsa-miR-148a-3p	0.0409	0.2715	1.2160	-0.14	-0.14	0.28	NULL
+MGLL	ENST00000434178.2	monoglyceride lipase 	453	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0304	0.1743	0.5308	-0.14	-0.25	< 0.1	NULL
+USP32	ENST00000300896.4	ubiquitin specific peptidase 32 	85	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0607	0.2856	0.8918	-0.14	-0.37	0.87	2005, 2007, 2009, 2011
+SMARCD1	ENST00000394963.4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 	952	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0078	0.0560	0.3333	-0.14	-0.14	0.59	2005, 2007, 2009, 2011
+IGF1	ENST00000337514.6	insulin-like growth factor 1 (somatomedin C) 	19	1	1	0	0	1	0	1	0	1	hsa-miR-148a-3p	0.0359	0.1983	0.7472	-0.14	-0.60	0.33	2009, 2011
+NEURL1B	ENST00000369800.5	neuralized homolog 1B (Drosophila) 	5	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0265	0.1792	0.8694	-0.14	-0.14	0.60	2011
+MGAT4A	ENST00000264968.3	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme A 	223	2	0	2	0	0	0	0	0	0	hsa-miR-148a-3p	0.0186	0.1238	0.5663	-0.13	-0.38	0.68	2007, 2009, 2011
+NUDT3	ENST00000607016.1	nudix (nucleoside diphosphate linked moiety X)-type motif 3 	190	3	0	3	0	0	0	0	0	1	hsa-miR-148a-3p	0.0337	0.2126	0.8177	-0.13	-0.34	0.88	NULL
+HDGF	ENST00000357325.5	hepatoma-derived growth factor 	10112	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0125	0.0863	0.4347	-0.13	-0.13	0.32	2011
+OXSR1	ENST00000311806.3	oxidative stress responsive 1 	1790	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0452	0.2774	0.9946	-0.13	-0.13	0.73	2005, 2007, 2009, 2011
+UBE3B	ENST00000434735.2	ubiquitin protein ligase E3B 	916	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0937	0.4420	1.0329	-0.13	-0.14	0.70	2011
+CFL2	ENST00000341223.3	cofilin 2 (muscle) 	902	2	1	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0274	0.1366	0.3241	-0.13	-0.80	0.80	NULL
+KLC2	ENST00000394065.2	kinesin light chain 2 	11832	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0128	0.0881	0.4455	-0.13	-0.13	0.43	2007, 2011
+TXLNG	ENST00000380122.5	taxilin gamma 	96	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0228	0.1499	0.6556	-0.13	-0.19	0.34	2011
+ELMO1	ENST00000341056.3	engulfment and cell motility 1 	118	1	0	1	0	1	0	1	0	2	hsa-miR-148a-3p	0.0221	0.1436	0.5600	-0.12	-0.23	0.30	2005, 2007, 2011
+GABRA1	ENST00000428797.2	gamma-aminobutyric acid (GABA) A receptor, alpha 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0237	0.1602	0.7640	-0.12	-0.12	0.28	2011
+KIAA1217	ENST00000396445.1	KIAA1217 	320	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0222	0.1515	0.7453	-0.12	-0.15	0.47	2005, 2007, 2009, 2011
+ETV5	ENST00000306376.5	ets variant 5 	1085	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0233	0.1513	0.6024	-0.12	-0.12	0.28	2007
+FAM104A	ENST00000581110.1	family with sequence similarity 104, member A 	2724	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0234	0.1171	0.3053	-0.12	-0.55	0.70	2007, 2009, 2011
+UGCG	ENST00000374279.3	UDP-glucose ceramide glucosyltransferase 	1200	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0096	0.0668	0.3509	-0.12	-0.13	0.37	NULL
+BRWD3	ENST00000373275.4	bromodomain and WD repeat domain containing 3 	506	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0222	0.1520	0.7600	-0.12	-0.12	0.53	2011
+LONRF3	ENST00000304778.7	LON peptidase N-terminal domain and ring finger 3 	36	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0357	0.2085	0.7996	-0.12	-0.30	0.73	NULL
+CHD9	ENST00000566029.1	chromodomain helicase DNA binding protein 9 	447	1	0	1	0	0	0	0	0	0	hsa-miR-148b-3p	0.0348	0.2262	0.9747	-0.12	-0.12	0.58	2005, 2007, 2009, 2011
+TRIP12	ENST00000283943.5	thyroid hormone receptor interactor 12 	145	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0330	0.1932	0.6287	-0.12	-0.19	0.15	NULL
+AMER1	ENST00000330258.3	APC membrane recruitment protein 1 	11	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0270	0.1812	0.8879	-0.12	-0.17	0.27	2011
+AGO3	ENST00000373191.4	argonaute RISC catalytic component 3 	198	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0331	0.1950	0.7005	-0.12	-0.24	0.82	NULL
+EPHA8	ENST00000166244.3	EPH receptor A8 	5	1	0	0	1	1	0	1	0	0	hsa-miR-152-3p	0.0248	0.1737	0.9419	-0.12	-0.12	0.61	2005, 2007, 2011
+SNRK	ENST00000429705.2	SNF related kinase 	153	1	1	0	0	0	0	0	0	0	hsa-miR-152-3p	0.0977	0.4761	1.1626	-0.12	-0.12	0.34	2009, 2011
+SLC35F1	ENST00000360388.4	solute carrier family 35, member F1 	56	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0163	0.1147	0.6431	-0.12	-0.12	0.34	NULL
+ARHGEF17	ENST00000263674.3	Rho guanine nucleotide exchange factor (GEF) 17 	729	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0235	0.1592	0.7703	-0.11	-0.11	0.57	2005, 2007, 2009, 2011
+CAMKK1	ENST00000381769.2	calcium/calmodulin-dependent protein kinase kinase 1, alpha 	34	1	0	1	0	0	0	0	0	0	hsa-miR-152-3p	0.0336	0.2229	1.0177	-0.11	-0.11	0.28	NULL
+SPTY2D1	ENST00000336349.5	SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae) 	241	1	0	1	0	0	0	0	0	1	hsa-miR-148b-3p	0.0219	0.1382	0.6299	-0.11	-0.33	0.65	2009, 2011
+TOMM70A	ENST00000284320.5	translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae) 	639	1	1	0	0	0	0	0	0	1	hsa-miR-148a-3p	0.0377	0.1651	0.3661	-0.11	-0.41	0.89	2005, 2007, 2009, 2011
+FRYL	ENST00000503238.1	FRY-like 	276	1	0	1	0	0	0	0	0	2	hsa-miR-148b-3p	0.0318	0.2236	1.2827	-0.11	-0.17	0.48	2009, 2011
+RXRA	ENST00000481739.1	retinoid X receptor, alpha 	609	1	0	1	0	1	0	0	1	1	hsa-miR-148a-3p	0.0295	0.1829	0.6477	-0.11	-0.27	0.48	2005, 2007
+CTD-2140B24.4	ENST00000540096.2	Zinc finger protein 268  	156	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0380	0.2120	0.5998	-0.11	-0.17	< 0.1	NULL
+CBLB	ENST00000264122.4	Cbl proto-oncogene B, E3 ubiquitin protein ligase 	469	2	1	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0319	0.1673	0.5820	-0.11	-0.70	0.84	NULL
+PREX1	ENST00000396220.1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1 	14	1	0	1	0	0	0	0	0	0	hsa-miR-152-3p	0.0317	0.2102	0.9611	-0.11	-0.11	0.68	2011
+SOBP	ENST00000317357.5	sine oculis binding protein homolog (Drosophila) 	22	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0100	0.0699	0.3815	-0.10	-0.20	0.52	2011
+SSBP3	ENST00000417664.2	single stranded DNA binding protein 3 	1474	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0086	0.0596	0.3025	-0.10	-0.14	0.46	NULL
+ADAM22	ENST00000398204.4	ADAM metallopeptidase domain 22 	115	1	1	0	0	2	1	1	0	0	hsa-miR-152-3p	0.0772	0.4236	1.2116	-0.10	-0.23	< 0.1	NULL
+SYNCRIP	ENST00000355238.6	synaptotagmin binding, cytoplasmic RNA interacting protein 	4864	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0190	0.1272	0.6152	-0.10	-0.27	0.54	2011
+KCNN3	ENST00000271915.4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3 	5	1	0	1	0	1	1	0	0	3	hsa-miR-148a-3p	0.0884	0.5538	2.3168	-0.10	-0.10	0.45	NULL
+PPP1R9A	ENST00000289495.5	protein phosphatase 1, regulatory subunit 9A 	46	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0372	0.2499	1.2543	-0.10	-0.17	0.33	2011
+NGLY1	ENST00000422724.2	N-glycanase 1 	31	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0075	0.0537	0.3343	-0.10	-0.10	< 0.1	NULL
+PODXL	ENST00000541194.1	podocalyxin-like 	2928	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0170	0.1165	0.5716	-0.10	-0.10	0.46	2009, 2011
+CEP72	ENST00000444221.1	centrosomal protein 72kDa 	230	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0291	0.1819	0.6357	-0.10	-0.12	< 0.1	NULL
+VSIG10	ENST00000359236.5	V-set and immunoglobulin domain containing 10 	355	1	1	0	0	1	0	1	0	2	hsa-miR-152-3p	0.0368	0.2264	0.9913	-0.10	-0.39	< 0.1	NULL
+PPP1R3B	ENST00000310455.3	protein phosphatase 1, regulatory subunit 3B 	20	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0230	0.1604	0.8671	-0.10	-0.10	0.27	NULL
+SUGT1	ENST00000310528.8	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae) 	430	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.0304	0.1537	0.5198	-0.10	-0.60	0.70	NULL
+MTA2	ENST00000278823.2	metastasis associated 1 family, member 2 	1168	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0076	0.0534	0.2941	-0.10	-0.10	0.50	2009, 2011
+TBL1XR1	ENST00000430069.1	transducin (beta)-like 1 X-linked receptor 1 	334	1	1	0	0	0	0	0	0	1	hsa-miR-152-3p	0.0720	0.2245	0.5085	-0.09	-0.43	0.82	2005, 2007, 2009, 2011
+LGALS8	ENST00000526589.1	lectin, galactoside-binding, soluble, 8 	188	1	0	0	1	3	0	1	2	1	hsa-miR-152-3p	0.0128	0.0865	0.3990	-0.09	-0.50	0.19	NULL
+USP37	ENST00000258399.3	ubiquitin specific peptidase 37 	14	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0415	0.2764	1.2348	-0.09	-0.15	0.39	NULL
+ENTPD5	ENST00000334696.6	ectonucleoside triphosphate diphosphohydrolase 5 	105	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0256	0.1545	0.5809	-0.09	-0.22	< 0.1	NULL
+C6orf222	ENST00000437635.2	chromosome 6 open reading frame 222 	5	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0124	0.0893	0.5549	-0.09	-0.09	0.47	2009, 2011
+PTPRD	ENST00000381196.4	protein tyrosine phosphatase, receptor type, D 	101	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0222	0.1522	0.8099	-0.09	-0.19	0.65	2007, 2009, 2011
+TMEM164	ENST00000372073.1	transmembrane protein 164 	711	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0270	0.1835	0.8602	-0.09	-0.10	0.32	NULL
+RORA	ENST00000335670.6	RAR-related orphan receptor A 	102	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0248	0.1695	0.8563	-0.09	-0.11	0.29	2011
+B4GALT2	ENST00000434555.2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2 	440	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0100	0.0697	0.3569	-0.09	-0.32	0.39	2007, 2009, 2011
+NFAT5	ENST00000354436.2	nuclear factor of activated T-cells 5, tonicity-responsive 	128	2	1	0	1	2	0	1	1	0	hsa-miR-148a-3p	0.0471	0.2883	1.0322	-0.08	-0.23	0.87	2005, 2007, 2009, 2011
+NCOR1	ENST00000268712.3	nuclear receptor corepressor 1 	268	1	0	0	1	1	0	0	1	0	hsa-miR-148a-3p	0.0134	0.0840	0.3101	-0.08	-0.27	0.51	NULL
+PPP2R5E	ENST00000337537.3	protein phosphatase 2, regulatory subunit B', epsilon isoform 	23	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0133	0.0876	0.4232	-0.08	-0.17	< 0.1	NULL
+SLC24A2	ENST00000341998.2	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 	5	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0387	0.2615	1.2841	-0.08	-0.08	< 0.1	2011
+SNX17	ENST00000233575.2	sorting nexin 17 	479	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0122	0.0736	0.2604	-0.08	-0.32	0.52	NULL
+FUBP1	ENST00000370767.1	far upstream element (FUSE) binding protein 1 	2021	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0201	0.1240	0.4771	-0.08	-0.21	0.66	NULL
+BNIP2	ENST00000267859.3	BCL2/adenovirus E1B 19kDa interacting protein 2 	1255	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0334	0.1762	0.4444	-0.08	-0.16	< 0.1	NULL
+UNC5D	ENST00000287272.2	unc-5 homolog D (C. elegans) 	37	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0250	0.1742	0.9448	-0.07	-0.11	0.71	NULL
+RAB10	ENST00000264710.4	RAB10, member RAS oncogene family 	998	1	0	0	1	0	0	0	0	0	hsa-miR-152-3p	0.0152	0.0878	0.2855	-0.07	-0.35	0.68	NULL
+TIMM8A	ENST00000372902.3	translocase of inner mitochondrial membrane 8 homolog A (yeast) 	147	1	1	0	0	1	0	1	0	0	hsa-miR-148b-3p	0.0153	0.0942	0.3453	-0.07	-0.33	< 0.1	NULL
+PHF3	ENST00000262043.3	PHD finger protein 3 	505	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0169	0.0976	0.3593	-0.07	-0.37	0.85	2005, 2007, 2009, 2011
+FOSB	ENST00000592811.1	FBJ murine osteosarcoma viral oncogene homolog B 	11	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0160	0.0846	0.2152	-0.07	-0.31	0.63	2005, 2007, 2009, 2011
+TNPO1	ENST00000337273.5	transportin 1 	2041	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0657	0.2951	0.5827	-0.07	-0.11	0.83	2009, 2011
+SH3PXD2A	ENST00000369774.4	SH3 and PX domains 2A 	152	1	1	0	0	2	1	1	0	0	hsa-miR-148a-3p	0.1199	0.6287	1.9576	-0.07	-0.08	0.88	2009, 2011
+RMND5A	ENST00000283632.4	required for meiotic nuclear division 5 homolog A (S. cerevisiae) 	261	2	0	2	0	1*	0	0	0	0	hsa-miR-148a-3p	0.0083	0.0522	0.1978	-0.07	-0.50	0.86	2007, 2009, 2011
+SLC2A14	ENST00000340749.5	solute carrier family 2 (facilitated glucose transporter), member 14 	14	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0081	0.0542	0.2385	-0.06	-0.18	0.28	NULL
+MAP3K2	ENST00000409947.1	mitogen-activated protein kinase kinase kinase 2 	187	1	0	1	0	0	0	0	0	2	hsa-miR-152-3p	0.0217	0.1510	0.8663	-0.06	-0.15	0.47	2011
+SLC7A11	ENST00000280612.5	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 	61	1	0	1	0	1	0	0	1	1	hsa-miR-148b-3p	0.0201	0.1223	0.4179	-0.06	-0.26	0.76	2007, 2009, 2011
+RPUSD1	ENST00000565809.1	RNA pseudouridylate synthase domain containing 1 	1360	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0062	0.0444	0.2731	-0.06	-0.06	< 0.1	NULL
+ANKRD52	ENST00000267116.7	ankyrin repeat domain 52 	2913	1	1	0	0	0	0	0	0	3	hsa-miR-148a-3p	0.0501	0.3450	1.8397	-0.06	-0.06	< 0.1	2009, 2011
+DUSP8	ENST00000397374.3	dual specificity phosphatase 8 	26	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0183	0.1266	0.6566	-0.06	-0.07	0.40	2011
+HAUS5	ENST00000379045.2	HAUS augmin-like complex, subunit 5 	133	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0108	0.0780	0.4943	-0.06	-0.06	< 0.1	NULL
+VAV2	ENST00000406606.3	vav 2 guanine nucleotide exchange factor 	477	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0107	0.0747	0.4182	-0.05	-0.20	0.60	2009, 2011
+SNPH	ENST00000381873.3	syntaphilin 	13	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0315	0.2149	1.0801	-0.05	-0.05	0.38	2005, 2007, 2009, 2011
+ATG14	ENST00000247178.5	autophagy related 14 	25	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0100	0.0572	0.1724	-0.05	-0.28	0.77	2005, 2007, 2009, 2011
+MECP2	ENST00000303391.6	methyl CpG binding protein 2 (Rett syndrome) 	1474	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0110	0.0656	0.2415	-0.05	-0.30	0.54	2005, 2007, 2009
+LIMD2	ENST00000259006.3	LIM domain containing 2 	90	1	0	1	0	0	0	0	0	3	hsa-miR-148a-3p	0.0042	0.0294	0.1690	-0.05	-0.33	0.92	2007, 2009, 2011
+KLHL18	ENST00000232766.5	kelch-like family member 18 	74	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0178	0.1233	0.6380	-0.05	-0.05	0.73	2005, 2007, 2009, 2011
+FGF2	ENST00000264498.3	fibroblast growth factor 2 (basic) 	123	1	1	0	0	0	0	0	0	2	hsa-miR-148a-3p	0.0250	0.1495	0.6013	-0.05	-0.16	< 0.1	2011
+DYRK2	ENST00000344096.3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2 	1091	1	1	0	0	1	0	0	1	2	hsa-miR-148b-3p	0.0293	0.1378	0.4625	-0.05	-0.46	0.58	NULL
+SERPINE1	ENST00000223095.4	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1 	1508	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0073	0.0474	0.2232	-0.05	-0.31	0.68	2009, 2011
+ZFYVE26	ENST00000347230.4	zinc finger, FYVE domain containing 26 	104	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.0225	0.1120	0.4061	-0.05	-0.42	0.85	2005, 2007, 2009, 2011
+CPD	ENST00000225719.4	carboxypeptidase D 	1766	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0150	0.0919	0.3615	-0.05	-0.21	0.75	2005, 2007, 2009, 2011
+ACHE	ENST00000302913.4	acetylcholinesterase 	14	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0055	0.0380	0.1959	-0.05	-0.14	< 0.1	NULL
+ETNK1	ENST00000266517.4	ethanolamine kinase 1 	1047	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0138	0.0821	0.3133	-0.05	-0.25	0.71	2007, 2009, 2011
+ACVR2B	ENST00000352511.4	activin A receptor, type IIB 	21	1	0	1	0	2	0	2	0	2	hsa-miR-148a-3p	0.0169	0.1156	0.6051	-0.05	-0.14	0.89	2007, 2009, 2011
+NUFIP2	ENST00000225388.4	nuclear fragile X mental retardation protein interacting protein 2 	440	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0112	0.0714	0.2729	-0.04	-0.13	0.34	NULL
+SCML2	ENST00000398048.3	sex comb on midleg-like 2 (Drosophila) 	7	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0034	0.0230	0.1038	-0.04	-0.19	0.48	2009, 2011
+CNNM2	ENST00000369878.4	cyclin M2 	517	1	0	1	0	1	1	0	0	1	hsa-miR-152-3p	0.0330	0.1780	0.5557	-0.04	-0.20	0.47	NULL
+NFIX	ENST00000360105.4	nuclear factor I/X (CCAAT-binding transcription factor) 	24	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0257	0.1160	0.2819	-0.04	-0.20	0.76	2009, 2011
+MRPS25	ENST00000253686.2	mitochondrial ribosomal protein S25 	630	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0051	0.0319	0.1345	-0.04	-0.37	0.92	2009, 2011
+SPRY3	ENST00000302805.2	sprouty homolog 3 (Drosophila) 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0300	0.2042	1.0234	-0.04	-0.04	0.52	2005, 2007, 2011
+ING2	ENST00000302327.3	inhibitor of growth family, member 2 	193	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0181	0.0604	0.0927	-0.04	-0.48	0.89	NULL
+SH3KBP1	ENST00000397821.3	SH3-domain kinase binding protein 1 	109	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0077	0.0532	0.2666	-0.03	-0.05	0.31	2011
+DICER1	ENST00000541352.1	dicer 1, ribonuclease type III 	25	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0108	0.0660	0.2979	-0.03	-0.29	0.64	2011
+NSD1	ENST00000439151.2	nuclear receptor binding SET domain protein 1 	685	1	0	1	0	0	0	0	0	2	hsa-miR-148a-3p	0.0196	0.1299	0.6498	-0.03	-0.10	0.85	2011
+NCAM1	ENST00000316851.7	neural cell adhesion molecule 1 	19	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0065	0.0421	0.1692	-0.03	-0.12	0.59	2007, 2009, 2011
+SMURF2	ENST00000262435.9	SMAD specific E3 ubiquitin protein ligase 2 	978	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0038	0.0247	0.1054	-0.03	-0.27	0.75	NULL
+ZDHHC2	ENST00000262096.8	zinc finger, DHHC-type containing 2 	171	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0080	0.0500	0.2075	-0.03	-0.22	< 0.1	NULL
+CCNA2	ENST00000274026.5	cyclin A2 	1162	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0022	0.0154	0.0745	-0.03	-0.20	< 0.1	NULL
+SBNO1	ENST00000420886.2	strawberry notch homolog 1 (Drosophila) 	87	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0105	0.0714	0.3780	-0.03	-0.16	0.67	2011
+MPP2	ENST00000377184.3	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2) 	78	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0083	0.0600	0.3738	-0.03	-0.03	0.36	2011
+FMNL3	ENST00000335154.5	formin-like 3 	132	1	0	0	1	0	0	0	0	2	hsa-miR-148a-3p	0.0125	0.0900	0.5673	-0.03	-0.09	0.50	2005, 2007, 2011
+IL18BP	ENST00000497194.2	interleukin 18 binding protein 	41	1	0	0	1	0	0	0	0	0	hsa-miR-148a-3p	0.0031	0.0209	0.1039	-0.02	-0.21	0.77	NULL
+SESN3	ENST00000536441.1	sestrin 3 	260	1	0	1	0	1	0	1	0	1	hsa-miR-152-3p	0.0058	0.0369	0.1465	-0.02	-0.29	0.47	NULL
+FBXO11	ENST00000402508.1	F-box protein 11 	359	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0036	0.0234	0.1042	-0.02	-0.19	0.35	2005, 2007, 2009, 2011
+ZFHX3	ENST00000268489.5	zinc finger homeobox 3 	57	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0283	0.1895	0.8931	-0.02	-0.02	0.37	2007, 2011
+PLA2G15	ENST00000566188.1	phospholipase A2, group XV 	2670	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0043	0.0309	0.1939	-0.02	-0.02	< 0.1	NULL
+NLK	ENST00000407008.3	nemo-like kinase 	61	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0027	0.0182	0.0782	-0.02	-0.17	0.59	2005, 2007, 2009, 2011
+FAM46A	ENST00000369754.3	family with sequence similarity 46, member A 	899	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0117	0.0807	0.3988	-0.02	-0.02	0.28	NULL
+JMJD1C	ENST00000399251.1	jumonji domain containing 1C 	60	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0121	0.0852	0.4816	-0.02	-0.02	< 0.1	NULL
+MOGS	ENST00000409065.1	mannosyl-oligosaccharide glucosidase 	184	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0073	0.0527	0.3234	-0.02	-0.02	< 0.1	NULL
+SLC30A9	ENST00000264451.7	solute carrier family 30 (zinc transporter), member 9 	396	1	1	0	0	1	0	1	0	0	hsa-miR-148a-3p	0.0093	0.0551	0.2615	-0.02	-0.42	< 0.1	NULL
+INSIG2	ENST00000245787.4	insulin induced gene 2 	562	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0027	0.0155	0.0488	-0.02	-0.40	< 0.1	NULL
+ARF4	ENST00000303436.6	ADP-ribosylation factor 4 	390	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0033	0.0165	0.0357	-0.02	-0.49	0.61	2009, 2011
+TMEM11	ENST00000317635.5	transmembrane protein 11 	223	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0042	0.0259	0.0984	-0.02	-0.18	< 0.1	NULL
+DNAJC18	ENST00000302060.5	DnaJ (Hsp40) homolog, subfamily C, member 18 	253	1	0	1	0	2	0	2	0	1	hsa-miR-148b-3p	0.0025	0.0173	0.0998	-0.02	-0.29	0.32	2011
+GRAMD1B	ENST00000529750.1	GRAM domain containing 1B 	35	1	0	1	0	0	0	0	0	1	hsa-miR-148b-3p	0.0291	0.1919	0.8337	-0.02	-0.12	0.43	NULL
+KDM5A	ENST00000399788.2	lysine (K)-specific demethylase 5A 	118	1	0	1	0	0	0	0	0	1	hsa-miR-148a-3p	0.0263	0.1822	0.9677	-0.01	-0.02	0.36	NULL
+C1orf35	ENST00000272139.4	chromosome 1 open reading frame 35 	32	1	1	0	0	1	0	0	1	1	hsa-miR-148b-3p	0.0045	0.0171	0.0353	-0.01	-0.69	0.90	NULL
+ATXN3	ENST00000545170.1	ataxin 3 	115	1	0	1	0	0	0	0	0	1	hsa-miR-152-3p	0.0030	0.0209	0.1170	-0.01	-0.15	0.46	NULL
+RBFOX2	ENST00000449924.2	RNA binding protein, fox-1 homolog (C. elegans) 2 	262	1	0	1	0	0	0	0	0	3	hsa-miR-148a-3p	0.0016	0.0107	0.0477	-0.01	-0.32	0.79	2007, 2009, 2011
+SMAD2	ENST00000262160.6	SMAD family member 2 	1196	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0026	0.0177	0.0824	-0.01	-0.11	0.66	2007, 2009, 2011
+YWHAB	ENST00000353703.4	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide 	272	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0036	0.0152	0.0465	-0.01	-0.63	0.87	2005, 2007, 2009, 2011
+CSNK2A1	ENST00000349736.5	casein kinase 2, alpha 1 polypeptide 	1927	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0016	0.0108	0.0529	-0.01	-0.20	0.63	NULL
+PTCD3	ENST00000254630.7	pentatricopeptide repeat domain 3 	2308	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0047	0.0210	0.0496	-0.01	-0.29	0.29	2009, 2011
+BEST1	ENST00000449131.2	bestrophin 1 	83	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0025	0.0180	0.1156	-0.01	-0.10	0.43	2007, 2009
+FANCA	ENST00000568369.1	Fanconi anemia, complementation group A 	348	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0190	0.1350	0.7797	-0.01	-0.02	< 0.1	NULL
+CAST	ENST00000395812.2	calpastatin 	4674	1	0	1	0	1	1	0	0	0	hsa-miR-148a-3p	0.0011	0.0061	0.0190	0	-0.47	0.36	2009
+CBX5	ENST00000209875.4	chromobox homolog 5 	360	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0045	0.0316	0.1775	0	-0.02	0.47	2011
+FAM104B	ENST00000472571.2	family with sequence similarity 104, member B 	599	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0003	0.0020	0.0061	0	-0.57	< 0.1	2011
+NFE2L1	ENST00000585291.1	nuclear factor, erythroid 2-like 1 	1605	1	0	0	1	0	0	0	0	1	hsa-miR-148a-3p	0.0024	0.0168	0.1054	0	-0.15	0.57	NULL
+GSR	ENST00000221130.5	glutathione reductase 	858	1	1	0	0	2	0	2	0	0	hsa-miR-148a-3p	0.0040	0.0285	0.1676	0	-0.07	< 0.1	NULL
+TTC38	ENST00000381031.3	tetratricopeptide repeat domain 38 	1352	1	1	0	0	1	0	1	0	0	hsa-miR-152-3p	0.0057	0.0412	0.2716	0	-0.23	< 0.1	NULL
+CADM1	ENST00000452722.3	cell adhesion molecule 1 	676	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0041	0.0290	0.1827	0	-0.21	0.83	2009, 2011
+C1orf50	ENST00000372525.5	chromosome 1 open reading frame 50 	1217	1	1	0	0	0	0	0	0	0	hsa-miR-148a-3p	0.0079	0.0556	0.3142	0	-0.19	< 0.1	NULL
+MAP4K2	ENST00000294066.2	mitogen-activated protein kinase kinase kinase kinase 2 	181	1	1	0	0	1	0	0	1	1	hsa-miR-148a-3p	0.0027	0.0188	0.1214	0	-0.28	0.34	NULL
+COG5	ENST00000347053.3	component of oligomeric golgi complex 5 	455	1	0	1	0	1	0	0	1	0	hsa-miR-148a-3p	0.0009	0.0067	0.0462	0	-0.11	0.40	2011
+NCKAP1	ENST00000361354.4	NCK-associated protein 1 	700	1	0	1	0	1	0	1	0	1	hsa-miR-148a-3p	0.0272	0.1887	1.0055	0	-0.21	0.53	NULL
+TSPAN31	ENST00000547992.1	tetraspanin 31 	72	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0004	0.0030	0.0190	0	-0.02	< 0.1	NULL
+ZBTB20	ENST00000462705.1	zinc finger and BTB domain containing 20 	5	3	0	3	0	1	0	0	1	5	hsa-miR-148a-3p	0.0020	0.0140	0.0921	0	-0.67	0.98	NULL
+WNT1	ENST00000293549.3	wingless-type MMTV integration site family, member 1 	5	2	1	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0005	0.0027	0.0136	0	-0.69	0.86	2005, 2007, 2009, 2011
+PCYT2	ENST00000538936.2	phosphate cytidylyltransferase 2, ethanolamine 	2340	1	0	1	0	0	0	0	0	3	hsa-miR-152-3p	0.0010	0.0071	0.0414	0	-0.07	< 0.1	NULL
+FCHSD1	ENST00000435817.2	FCH and double SH3 domains 1 	364	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0004	0.0028	0.0173	0	-0.02	< 0.1	NULL
+SLITRK3	ENST00000475390.1	SLIT and NTRK-like family, member 3 	5	1	0	1	0	1	0	1	0	0	hsa-miR-148a-3p	0.0023	0.0162	0.1090	0	-0.28	0.65	NULL
+SMIM17	ENST00000598409.1	small integral membrane protein 17 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0001	0.0004	0.0012	0	-0.29	0.29	2011
+NRD1	ENST00000352171.7	nardilysin (N-arginine dibasic convertase) 	1501	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0100	0.0724	0.4616	0	-0.25	0.48	NULL
+KCNH1	ENST00000271751.4	potassium voltage-gated channel, subfamily H (eag-related), member 1 	5	1	1	0	0	1	0	0	1	0	hsa-miR-148a-3p	0.0051	0.0371	0.2462	0	-0.17	< 0.1	2011
+GRIN2A	ENST00000562109.1	glutamate receptor, ionotropic, N-methyl D-aspartate 2A 	5	1	0	1	0	0	0	0	0	0	hsa-miR-148a-3p	0.0015	0.0112	0.0785	0	-0.02	0.43	NULL

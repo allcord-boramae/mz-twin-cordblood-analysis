@@ -1,0 +1,4 @@
+miRNA,Gene,miRDB,TargetScan,miRTarBase,n_databases,FDR_significant_miRNA,miRNA_logFC,miRNA_FDR,mRNA_logFC,mRNA_FDR,expression_relationship
+hsa-miR-128-3p,EIF5,False,True,True,2,False,-1.17436333333333,0.0697909651580682,-0.60897,0.965864665352879,same-direction
+hsa-miR-128-3p,MOB1B,False,True,True,2,False,-1.17436333333333,0.0697909651580682,-0.81865,0.965864665352879,same-direction
+hsa-miR-328-3p,HIST1H4D,False,True,True,2,False,-1.09424333333333,0.129737556390869,-1.00372,0.965864665352879,same-direction

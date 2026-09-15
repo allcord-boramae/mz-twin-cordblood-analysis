@@ -1,0 +1,6 @@
+Metric,Value
+All database-supported pairs,26
+Pairs involving FDR-significant miRNA,0
+Pairs supported by >=2 databases,3
+Anti-correlated pairs,3
+Pairs with >=2 DB support AND anti-correlation,0
