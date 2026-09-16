@@ -67,7 +67,10 @@ DEG_DATA = [
     ("RABGGTB",      -0.84, -0.83, -0.39, "T1"),
 ]
 # 2026-09-13 실DB 재검증 반영: 17쌍 (328->TOMM40L 삭제: miRDB v6 부재,
-# 4253->PRKX는 TS 단독으로 강등: miRTarBase v9에 CLIP-seq 기록 부재).
+# Verified against DB source files (2026-09): miR-4253->PRKX TargetScan-only
+# (no CLIP-seq record in miRTarBase v9); miR-6779-5p->DNTTIP2 upgraded to
+# TargetScan+miRTarBase (PAR-CLIP, MIRT778874); miR-328-3p->TOMM40L excluded
+# (miRDB score 50 < 60 default inclusion threshold; no TS/MTB support).
 # 근거: miRDB_v6.0_prediction_result.txt.gz, miRTarBase_MTI.xlsx,
 # TargetScan8.0 per-miRNA exports (클로드챗 폴더, 2026-03-22).
 INTERACTIONS = [
@@ -86,7 +89,7 @@ INTERACTIONS = [
     ("hsa-miR-6779-5p", "SGOL1",   "Same", ["TargetScan"], ""),
     ("hsa-miR-6891-5p", "SGOL1",   "Same", ["TargetScan"], ""),
     ("hsa-miR-6891-5p", "SH2D1A",  "Same", ["TargetScan"], ""),
-    ("hsa-miR-6779-5p", "DNTTIP2", "Same", ["TargetScan"], ""),
+    ("hsa-miR-6779-5p", "DNTTIP2", "Same", ["TargetScan", "miRTarBase"], "PAR-CLIP"),
     ("hsa-miR-4253",    "DNTTIP2", "Same", ["TargetScan"], ""),
 ]
 # (Ontology, GO ID, term, K universe, k DEG, P, FDR, genes)
@@ -365,7 +368,7 @@ def fig4(out):
         ("miR-6891-5p", "TOMM40L", '#E67E22', 1.2, '--'),
         ("miR-4253", "TOMM40L", '#E67E22', 1.2, '--'),
         ("miR-128-3p", "PRKX", '#27AE60', 2.0, '-'),
-        ("miR-4253", "PRKX", '#27AE60', 2.0, '-'),
+        ("miR-4253", "PRKX", '#27AE60', 1.2, '--'),
         ("miR-6779-5p", "PHC1", '#8E44AD', 2.0, '-'),
         ("miR-1292-5p", "PHC1", '#8E44AD', 1.2, '--'),
         ("miR-6779-5p", "SGOL1", '#2980B9', 1.2, '--'),
